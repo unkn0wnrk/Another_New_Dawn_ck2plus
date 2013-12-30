@@ -1,0 +1,10 @@
+title = c_padova
+
+max_settlements = 4
+b_este = castle
+b_montagnana = temple
+b_padova = city
+b_polesine = castle
+
+culture = italian
+religion = catholic

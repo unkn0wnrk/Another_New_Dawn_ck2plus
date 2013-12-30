@@ -1,0 +1,9 @@
+title = c_kilkenny
+
+max_settlements = 3
+b_kilkenny = castle
+b_gowran = temple
+b_callan = city
+
+culture = irish
+religion = catholic

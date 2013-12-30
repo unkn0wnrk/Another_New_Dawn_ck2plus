@@ -1,0 +1,9 @@
+title = c_tortone
+
+max_settlements = 4
+b_tortona = castle
+b_sarezzano = city
+b_momperone = temple
+
+culture = italian
+religion = catholic

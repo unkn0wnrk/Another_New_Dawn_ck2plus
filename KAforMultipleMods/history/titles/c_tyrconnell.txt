@@ -1,0 +1,11 @@
+841.7.18 = {
+	holder = 100000528
+	law = succ_tanistry
+	law = true_cognatic_succession
+	law = city_contract_0
+	law = city_tax_2
+	law = feudal_contract_0
+	law = feudal_tax_0
+	law = temple_contract_0
+	law = temple_tax_1
+}

@@ -1,0 +1,8 @@
+title = c_matam
+
+max_settlements = 3
+b_matam = castle
+b_kaedi = city
+
+culture = jolof
+religion = west_african_pagan

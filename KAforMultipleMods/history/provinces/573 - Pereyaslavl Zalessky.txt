@@ -1,0 +1,8 @@
+title = c_pereyaslavl_zalessky
+
+max_settlements = 4
+b_pereyaslavlzalessky = temple
+b_aleksandrov = city
+
+culture = mordvin
+religion = finnish_pagan

@@ -1,0 +1,9 @@
+title = c_mondovi
+
+max_settlements = 4
+b_mondovi = castle
+b_perlo = temple
+b_garessio = city
+
+culture = italian
+religion = catholic

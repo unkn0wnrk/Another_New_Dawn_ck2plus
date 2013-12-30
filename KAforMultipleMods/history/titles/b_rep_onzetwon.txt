@@ -1,0 +1,5 @@
+841.2.11= {
+	holding_dynasty = 1022126
+	liege = "d_seleukeia"
+	holder = 100000018
+}

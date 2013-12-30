@@ -1,0 +1,9 @@
+829.1.14 = {
+	holder = 100001051
+	law = succ_gavelkind
+	law = agnatic_succession
+	law = city_contract_1
+	law = city_tax_2
+	law = iqta_contract_1
+	law = iqta_tax_0
+}

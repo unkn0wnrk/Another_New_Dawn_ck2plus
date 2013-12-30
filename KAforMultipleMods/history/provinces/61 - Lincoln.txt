@@ -1,0 +1,9 @@
+title = c_lincoln
+
+max_settlements = 4
+b_gainsborough = castle
+b_lincoln = temple
+b_boston = city
+
+culture = saxon
+religion = catholic

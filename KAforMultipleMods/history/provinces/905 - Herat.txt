@@ -1,0 +1,10 @@
+title = c_herat
+
+max_settlements = 5
+b_herat = castle
+b_karukh = city
+b_kushk = temple
+b_gulran = castle
+
+culture = persian
+religion = zoroastrian

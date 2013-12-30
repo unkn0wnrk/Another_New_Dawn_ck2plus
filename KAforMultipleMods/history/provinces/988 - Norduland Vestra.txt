@@ -1,0 +1,8 @@
+title = c_nordulandvestra
+
+max_settlements = 2
+b_saudarkrokur = castle
+b_holar = temple
+
+culture = norse
+religion = norse_pagan

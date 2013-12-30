@@ -1,0 +1,9 @@
+title = c_innsbruck
+
+max_settlements = 3
+b_innsbruck = temple
+b_kufstein = city
+b_stams = castle
+
+culture = german
+religion = catholic

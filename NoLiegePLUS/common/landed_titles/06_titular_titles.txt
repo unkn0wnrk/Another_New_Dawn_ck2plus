@@ -1,0 +1,1402 @@
+# TITULAR KINGDOMS
+
+k_qarakhnid = { # Actually Khiva
+        color = { 39 138 51 }
+        color2 = { 255 255 255 }
+        
+        capital = 626 # Khiva
+        culture = persian
+        
+        tengri_pagan_reformed = 50
+        zoroastrian_group = 700 # Crusade target weight
+        
+        allow = {
+                war = no
+                OR = {
+                        culture = persian
+                        k_qarakhnid = { 
+                                OR = { 
+                                        is_titular = no 
+                                        has_holder = yes 
+                                } 
+                        }
+                }
+        }
+} # k_qarakhnid
+
+
+k_magna_graecia = {
+        color = { 16 211 246 }
+        capital = 344 #Taranto
+        assimilate = no
+        allow = {
+                war = no
+                is_republic = yes
+        }
+        culture = greek
+        dignity = 10
+}
+
+k_bhutan = {
+        color = { 255 127 20 }
+}
+
+k_bavaria = {
+                color={ 91 91 202 }
+                color2={ 220 220 20 }
+                culture = german
+                capital = 360 #Oberbayern
+                
+                allow = {
+                        war = no
+                        OR = {
+                                culture = german
+                                k_bavaria = { 
+                                        OR = { 
+                                                is_titular = no 
+                                                has_holder = yes 
+                                        } 
+                                }
+                        }
+                }
+                
+                catholic = 700 # Crusade target weight
+}
+
+k_dal = {
+        color = { 20 20 255 }
+}
+
+
+k_epirus = {
+        color = { 159 158 29 }
+        capital = 472
+        culture = greek
+        allow = {
+                war = no
+                OR = {
+                        culture_group = byzantine
+                        k_epirus = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+
+k_iceland = {
+	color={ 105 55 215 }
+	color2={ 120 220 120 }
+	
+	culture = icelandic
+
+    capital = 1 #Vestisland
+	
+	
+	allow = {
+		war = no
+		OR = {
+			culture_group = north_germanic
+			k_iceland = {
+				OR = {
+						is_titular = no
+						has_holder = yes
+				}
+			}
+		}
+    }
+}
+
+k_israel = {
+	color={ 120 120 220 }
+	color2={ 255 255 255 }
+
+	capital = 774 # Jerusalem
+
+	dignity = 100 # Counted as having this many more counties than it does
+
+	allow = {
+		religion_group = jewish_group
+		k_israel = { 
+			OR = { 
+				is_titular = no 
+				has_holder = yes
+			} 
+		}
+	}
+}
+
+k_livonia = {
+        color={ 209 121 116 }
+        capital = 377 #livs
+        culture = german
+        allow = {
+                war = no
+                OR = {
+                        religion = catholic
+                        k_livonia = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+k_mercia = {
+        color={ 227 199 41 }
+        capital = 63 # Derby
+        culture = saxon
+        allow = {
+                war = no
+                OR = {
+                        AND = {
+                                culture = saxon
+                                lower_tier_than = king
+                        }
+                        k_mercia = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+k_normandy = { #unused
+        color={ 73 136 4 }
+        color2={ 255 255 255 }
+}
+
+k_northumbria = {
+        color = { 255 65 20 }
+        capital = 57 # York
+        culture = saxon
+        allow = {
+                war = no
+                OR = {
+                        AND = {
+                                culture = saxon
+                                lower_tier_than = king
+                        }
+                        k_northumbria = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+k_prussia = {
+	color={ 121 176 209 }
+	capital = 370 # Marienburg
+	culture = german
+	allow = {
+		war = no
+		OR = {
+			culture = german
+			culture_group = baltic
+			k_prussia = { OR = { is_titular = no has_holder = yes } }
+		}
+	}
+}
+
+k_sami = {
+        color = { 11 80 139 }
+        culture = lappish
+        capital = 386 # Kemi
+        tribe = yes
+        
+        allow = {
+                OR = {
+                        AND = {
+                                culture = lappish
+                                OR = {
+                                        religion = finnish_pagan
+                                        religion = finnish_pagan_reformed
+                                }
+                        }
+                        k_sami = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+        dignity = 10
+        
+        title = "HEAD_CHIEF"
+        foa = "HEAD_CHIEF_FOA"
+        title_prefix = "UNIFIED_TRIBES_OF"        
+}
+
+k_sardinia = {
+    color={ 170 200 170 }
+        capital = 326 # Cagliari
+        culture = italian
+        allow = {
+                war = no
+                OR = {
+                        culture_group = latin
+                        culture_group = iberian
+                        k_sardinia = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+k_saxony = {
+        color={ 74 132 75 }
+        color2={ 70 255 255 }
+
+        capital = 256
+
+        culture = german
+        allow = {
+                war = no
+                OR = {
+                        AND = {
+                                culture = german
+                                NOT = { tier = emperor }
+                        }
+                        k_saxony = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+}
+
+k_thessalonika = {
+        color = { 162  210  210 }
+        color2={ 255 255 23 }
+
+        allow = {
+                war = no
+                religion = catholic
+        }
+        capital = 490 #Thessalonica
+}
+
+k_wend = {
+        color={ 142 160 40 }
+        capital = 260 #Mecklemburg
+        culture = pommeranian
+
+        allow = {
+                war = no
+                OR = {
+                        culture = pommeranian
+                        k_wend = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+        dignity = 100
+}
+
+k_wessex = {
+        color={ 101 206 15 }
+        capital = 26 # Winchester
+        culture = saxon
+        allow = {
+                war = no
+                OR = {
+                        AND = {
+                                culture = saxon
+                                lower_tier_than = king
+                        }
+                        k_wessex = { OR = { is_titular = no has_holder = yes } }
+                }
+        }
+        saxon = "Westseaxna"
+}
+
+k_pechenegs = {
+        color = { 173 150 43 }
+        color2 = { 0 128 128 }
+        
+        capital = 543 # Oleshye
+        
+        tribe = yes
+        culture = pecheneg
+        
+        allow = {
+                always = no
+        }
+}
+
+k_almohad = {
+        color = { 0 105 56 }
+}
+k_al-murabitids = {
+        color = { 10 105 56 }
+}
+k_aydin = {
+        color = { 238 43 172 }
+}
+k_cyprus = {
+        color = { 85 138 236 }
+        color2= { 190 0 0 }
+        capital = 757 # Famagusta
+        allow = {
+                OR = {
+                        religion = catholic
+                        is_heresy_of = catholic
+                }
+        }
+}
+k_beni_helal = {
+        color = { 128 163 56 }
+}
+k_candar = {
+        color = { 238 79 182 }
+        culture = turkish
+}
+
+k_khazaria = {
+        color={ 250 184 31 }
+        color2={ 255 255 255 }
+        
+        capital = 620 #        Itil
+        
+        culture = khazar
+        
+        # Creation/Usurp Trigger
+        allow = {
+                culture = khazar
+        }
+}
+
+k_eretnid = {
+        color = { 253 182 182 }
+}
+k_fatimids = {
+        # OBSOLETE
+        color={ 10 140 4 }
+        color2={ 200 200 0 }
+#       capital = 796 # Cairo
+        culture = egyptian_arabic
+        
+        allow = {
+                always = no
+        }
+}
+k_germiyan = {
+        color = { 255 180 180 }
+}
+k_hammadid = {
+        color = { 149 180 17 }
+}
+k_kafsid = {
+        color = { 109 130 20 }
+}
+k_karaman = {
+        color = { 120 41 92 }
+        culture = turkish
+}
+k_magyar = {
+        color={ 187 70 70 }
+        tribe = yes
+        culture = hungarian
+        
+        capital = 522 # Pest
+        
+        allow = {
+                always = no
+        }
+}
+k_marinid = {
+        color = { 46 255 5 }
+}
+k_mentese = {
+        color = { 60 130 20 }
+        culture = turkish
+}
+k_moravia = {
+        color={ 158 102 36 }
+        culture = bohemian
+        tribe = yes
+        
+        capital = 441 # Brno
+        
+        allow = {
+                always = no
+        }
+}
+k_naples = {
+        color = { 0 0 255 }
+        color2= { 255 216 0 }
+        capital = 334 # Napoli
+        allow = {
+                always = no
+        }
+        
+        culture = italian
+}
+k_bosnia = {
+        color = { 0 86 148 }
+        color2= { 255 255 255 }
+        culture = serbian
+        serbian = "Bosna"
+        croatian = "Bosna"
+}
+k_ottoman = {
+        color = { 38 127 0 }
+        culture = turkish
+}
+k_rum = {
+        color = { 144 182 161 }
+        culture = turkish
+        dynasty_title_names = no         # Will not be named "Seljuk", etc.
+}
+k_saruhan = {
+        color = { 144 171 225 }
+        culture = turkish
+}
+k_seljuk_turks = { # Seljuk Turks
+        color={ 0 125 0 }
+        color2={ 200 200 0 }
+        capital = 646 # Esfahan
+        culture = turkish
+        
+        tribe=yes
+        
+        landless = yes
+        
+        allow = {
+                always = no
+        }
+}
+k_tekke = {
+        color={ 244 153 189 }
+}
+k_trinacria = {
+        color={ 250 0 0 }
+        color2= { 255 255 255 }
+#        capital = 340 #        Palermo
+        
+        allow = {
+                OR = {
+                        religion = catholic
+                        is_heresy_of = catholic
+                }
+        }
+}
+
+k_zenata = {
+        color = { 0 71 189 }
+}
+k_zirid = {
+        color = { 90 195 49 }
+}
+k_ziyanids = {
+        color = { 5 76 194 }
+}
+
+# TITULAR DUCHIES
+
+
+d_abbasid = {
+        color = { 19 180 16 }
+        
+        allow = {
+                always = no
+        }
+}
+
+d_arabia_felix = {
+        color = { 163 254 56 }
+}
+d_arabs = {
+        color = { 38 157 35 }
+        culture = bedouin_arabic
+}
+d_assassin = {
+        color = { 58 97 57 }
+}
+d_balearic = {
+        color={ 13 170 54 }
+}
+
+d_bergen = {
+        color = { 47 27 255 }
+}
+
+d_butrinto = {
+        color = { 148 68 154 }
+}
+d_campania = {
+        color = { 226 204 228 }
+}
+d_catalonia = {
+        color = { 255 210 57 }
+}
+
+d_curonian = {
+        color = { 141 55 29 }
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        capital = 373 # Kurzeme
+        culture = lettigallish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+# Pagan proto-Denmark
+d_danes = {
+        color={ 247 77 54 }
+        
+        tribe = yes
+        
+        dignity = 10
+        
+        capital = 266 # Sjaelland
+        
+        allow = {
+                always = no
+        }
+        
+        culture = norse
+}
+d_don = {
+        color = { 247 211 116 }
+}
+
+d_el-arish = {
+        color = { 148 206 13 }
+}
+d_erzerum = {
+        color = { 103 84 255 }
+}
+d_estonia = {
+        color = { 94 60 22 }
+
+        capital = 378 # Reval
+        
+        allow = {
+                always = no
+        }
+        
+        tribe = yes
+        
+        culture = ugricbaltic
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_georgia = {
+        color = { 251 184 184 }
+}
+
+d_geats = {
+        color={ 35 57 180 }
+
+        tribe = yes
+        
+        dignity = 8
+        
+        capital = 297 # Västergötland
+        
+        allow = {
+                always = no
+        }
+        
+        culture = norse
+}
+
+d_ingers = {
+        color={ 125 125 40 }
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = finnish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_kajaneborg = {
+        color = { 123 73 13 }
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = finnish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_kappadokia = {
+        color = { 255 3 170 }
+}
+
+d_khazars = {
+        color = { 246 217 137 }
+        
+        capital = 594 #        Sarkel
+        
+        tribe = yes
+        
+        culture = khazar
+        
+        # Creation/Usurp Trigger
+        allow = {
+                always = no
+        }
+}
+
+d_sami = {
+        color = { 101 99 35 }
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = lappish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_krakow = {
+        color = { 253 129 129 }
+}
+
+d_mar = {
+        color = { 16 211 246 }
+}
+d_milano = {
+        color = { 252 238 227 }
+}
+
+d_mordvins = {
+        komi = "Moksha"
+        color = { 173 158 55 }
+        
+        capital = 591 # Cheremisa
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_muromians = {
+        color = { 160 120 75 }
+        
+        capital = 581 # Murom
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_maris = {
+        color = { 150 130 45 }
+        
+        capital = 588 # Mari
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_pechenegs = {
+        # OBSOLETE
+        color = { 173 150 43 }
+        color2 = { 0 128 128 }
+        
+        capital = 542 # Olvia
+        
+        tribe = yes
+        culture = pecheneg
+        
+        allow = {
+                always = no
+        }
+}
+
+d_pruthenians = {
+        color = { 159 195 75 }
+        prussian = "Pameddi"
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        capital = 370 # Marienburg
+        culture = prussian
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+        
+}
+
+d_romagna = {
+        color = { 243 234 157 }
+}
+d_the_isles = {
+        color={ 10 48 243 }
+        color2={ 255 255 255 }
+}
+
+d_sandomiersk = {
+        color = { 253 137 137 }
+}
+
+d_slovakia = {
+        color = { 209 61 61 }
+}
+d_sweden = {
+        color={ 55 112 170 }
+
+        tribe = yes
+        
+        dignity = 10
+        
+        capital = 290 # Uppland
+        
+        allow = {
+                always = no
+        }
+        
+        culture = norse
+}
+d_meryas = {
+        color = { 131 41 41 }
+        
+        capital = 574 # Rostov / Merya
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_veps = {
+        color = { 120 90 40 }
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_meshcheras = {
+        color = { 151 71 41 }
+        
+        capital = 580 # Ryazan
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = mordvin
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_turkmens = {
+        color={ 143 121 33 }
+        culture = turkish
+}
+d_ural = {
+        color = { 208 178 78 }
+}
+d_varna = {
+        color = { 208 93 251 }
+}
+d_wielkopolska = {
+        color = { 252 144 144 }
+}
+d_vlachs = {
+        color = { 239 193 70 }
+}
+d_volga = {
+        color = { 168 135 47 }
+}
+d_votes = {
+        color = { 0 193 119 }
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = finnish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+        
+}
+d_yatviags = {
+        color = { 149 97 97 }
+        
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        culture = lithuanian
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+d_zara = {
+        color = { 203 217 255 }
+}
+
+d_zemigalians = {
+        color = { 183 21 21 }
+        culture = lettigallish
+        tribe = yes
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_lendians = { # aka Ledzianie or Lechs
+        color={ 245 163 176 }
+        color2={ 255 255 255 }
+        culture = polish
+        tribe = yes
+        
+        capital = 527 # Krakowskie
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_kryvians = { # aka Krivichi
+        color = { 128 133 104 }
+        color2={ 255 255 255 }
+        
+        culture = russian
+        tribe = yes
+        
+        capital = 419 # Polotsk
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_severians = { # aka Severiane
+        color = { 120 155 40 }
+        color2={ 255 255 255 }
+        
+        culture = russian
+        tribe = yes
+        
+        capital = 567 # Novgorod Seversky
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_vyatichi = { 
+        color={ 169 183 125 }
+        color2={ 255 255 255 }
+        
+        culture = russian
+        tribe = yes
+        
+        capital = 570 # Tver
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_dregovichi = { 
+        color={ 100 100 20 }
+        color2={ 255 255 255 }
+        
+        culture = russian
+        tribe = yes
+        
+        capital = 548 # Pinsk
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_radimichi = { 
+        color={ 110 136 68 }
+        color2={ 255 255 255 }
+        
+        culture = russian
+        tribe = yes
+        
+        capital = 551 # Mstislavl
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_glomacze = { # Aka Dolomici
+        color={ 215 143 156 }
+        color2={ 255 255 255 }
+        
+        culture = pommeranian
+        tribe = yes
+        
+        capital = 312 # Meissen
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_sorbs = {
+        color={ 170 205 110 }
+        color2={ 255 255 255 }
+        
+        culture = pommeranian
+        tribe = yes
+        
+        capital = 364 # Luzycka
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+d_obotrites = {
+        color={ 100 110 20 }
+        color2={ 255 255 255 }
+        
+        culture = pommeranian
+        tribe = yes
+        
+        capital = 260 # Mecklenburg
+        
+        allow = {
+                always = no
+        }
+        
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}
+
+# Merchant Republics
+
+d_raguse = {
+        color={ 133 98 17 }
+        color2={ 255 255 255 }
+        capital = 468 # Ragusa
+        allow = {
+                is_republic = yes
+        }
+        dignity = 5
+}
+
+######################################
+# Historical Merchant Republic Palaces
+######################################
+
+##############################
+# Gaète
+##############################
+b_coniulo  = {
+        culture = italian
+        religion = catholic
+}
+b_digaeta = {
+        culture = italian
+        religion = catholic
+}
+b_devio = {
+        culture = italian
+        religion = catholic
+}
+b_detonti = {
+        culture = italian
+        religion = catholic
+}
+b_conca = {
+        culture = italian
+        religion = catholic
+}
+##############################
+# Noli
+##############################
+b_dinoli = {
+        culture = italian
+        religion = catholic
+}
+b_colombo = {
+        culture = italian
+        religion = catholic
+}
+b_giraldi = {
+        culture = italian
+        religion = catholic
+}
+b_brignole = {
+        culture = italian
+        religion = catholic
+}
+b_alighieri = {
+        culture = italian
+        religion = catholic
+}
+##############################
+# Ancone
+##############################
+b_sebenico = {
+        culture = italian
+        religion = catholic
+}
+b_litto = {
+        culture = italian
+        religion = catholic
+}
+b_pizzicolli = {
+        culture = italian
+        religion = catholic
+}
+b_foschi = {
+        culture = italian
+        religion = catholic
+}
+b_segatori = {
+        culture = italian
+        religion = catholic
+}
+##############################
+# Raguse
+##############################
+b_drzic = {
+        culture = serbian
+        religion = orthodox
+}
+b_gucetic = {
+        culture = serbian
+        religion = orthodox
+}
+b_dobricevic = {
+        culture = serbian
+        religion = orthodox
+}
+b_mencetic = {
+        culture = serbian
+        religion = orthodox
+}
+b_vetranovic = {
+        culture = serbian
+        religion = orthodox
+}
+
+# VENICE:
+
+b_dandolo = {
+        culture = italian
+        religion = catholic
+}
+
+b_contarini = {
+        culture = italian
+        religion = catholic
+}
+
+b_faliero = {
+        culture = italian
+        religion = catholic
+}
+
+b_morosini = {
+        culture = italian
+        religion = catholic
+}
+
+b_ziani = {
+        culture = italian
+        religion = catholic
+}
+
+b_candiano = {
+        culture = italian
+        religion = catholic
+}
+
+b_orsoleo = {
+        culture = italian
+        religion = catholic
+}
+
+b_participazio = {
+        culture = italian
+        religion = catholic
+}
+
+b_tribuno = {
+        culture = italian
+        religion = catholic
+}
+
+b_tradonico = {
+        culture = italian
+        religion = catholic
+}
+
+# GENOA:
+
+b_doria = {
+        culture = italian
+        religion = catholic
+}
+
+b_spinola = {
+        culture = italian
+        religion = catholic
+}
+
+b_grimaldi = {
+        culture = italian
+        religion = catholic
+}
+
+b_fieschi = {
+        culture = italian
+        religion = catholic
+}
+
+b_embriaco = {
+        culture = italian
+        religion = catholic
+}
+
+# PISA:
+
+b_dappiano = {
+        culture = italian
+        religion = catholic
+}
+
+b_della_gherardesca = {
+        culture = italian
+        religion = catholic
+}
+
+b_visconti = {
+        culture = italian
+        religion = catholic
+}
+
+b_alliata = {
+        culture = italian
+        religion = catholic
+}
+
+b_caetani = {
+        culture = italian
+        religion = catholic
+}
+
+# LÜBECK:
+
+b_bardewik = {
+        culture = german
+        religion = catholic
+}
+
+b_vorrade = {
+        culture = german
+        religion = catholic
+}
+
+b_warendorp = {
+        culture = german
+        religion = catholic
+}
+
+b_pat_luneburg = {
+        culture = german
+        religion = catholic
+}
+
+b_wittenborg = {
+        culture = german
+        religion = catholic
+}
+
+# GOTLAND:
+
+b_stenkyrka = {
+        culture = swedish
+        religion = catholic
+}
+
+b_guldsmed = {
+        culture = swedish
+        religion = catholic
+}
+
+b_hejnum = {
+        culture = swedish
+        religion = catholic
+}
+
+b_gildehusen = {
+        culture = swedish
+        religion = catholic
+}
+
+b_strabain = {
+        culture = swedish
+        religion = catholic
+}
+
+# AMALFI:
+
+b_konstantios = {
+        culture = greek
+        religion = catholic
+}
+
+b_mauro = {
+        culture = italian
+        religion = catholic
+}
+
+b_musco = {
+        culture = italian
+        religion = catholic
+}
+
+b_polkarios = {
+        culture = greek
+        religion = catholic
+}
+
+b_urso = {
+        culture = italian
+        religion = catholic
+}
+
+d_karelians = {
+        color={ 190 246 101 }
+
+        tribe = yes
+
+        culture = finnish
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+        dignity = 10
+}
+
+d_marino = {
+        color = { 0  128  255 }
+        capital = 329 # Urbino
+        culture = italian
+        allow = {
+                war = no
+                is_republic = yes
+                lower_tier_than = duke
+                OR = {
+                        independent = yes
+                        liege = { is_merchant_republic = no }
+                }
+        }
+        dignity = 10
+}
+
+d_samarra = {
+        color = { 217 247 147 }
+        dignity = 10
+}
+
+d_syracuse = {
+        color = { 226 204 28 }
+        capital = 343
+        allow = {
+                war = no
+                culture_group = byzantine
+        }
+}
+
+
+d_mandinka = {
+        color={ 255 127 39 }
+        color2={ 255 255 255 }
+
+        culture = jolof
+        tribe = yes
+
+        capital = 940 # Baol
+
+        allow = {
+                always = no
+        }
+
+        title = "HIGH_CHIEF"
+        foa = "HIGH_CHIEF_FOA"
+        title_prefix = "TRIBE_OF"
+}

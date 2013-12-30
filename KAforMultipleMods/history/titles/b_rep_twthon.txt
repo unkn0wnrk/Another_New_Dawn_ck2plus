@@ -1,0 +1,5 @@
+838.6.51= {
+	holding_dynasty = 9516
+	liege = "d_schwaben"
+	holder = 100001579
+}

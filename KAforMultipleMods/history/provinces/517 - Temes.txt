@@ -1,0 +1,9 @@
+title = c_temes
+
+max_settlements = 3
+b_temesvar = temple
+b_csak = city
+b_lugos = castle
+
+culture = avar
+religion = tengri_pagan

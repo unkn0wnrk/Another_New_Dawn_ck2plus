@@ -1,0 +1,5 @@
+839.5.21= {
+	holding_dynasty = 101840
+	liege = "d_aprutium"
+	holder = 100000005
+}

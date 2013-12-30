@@ -1,0 +1,9 @@
+title = c_shamal
+
+max_settlements = 4
+b_shamal = castle
+b_simbel = temple
+b_ahmar = city
+
+culture = nubian
+religion = miaphysite

@@ -1,0 +1,7 @@
+title = c_napata
+
+max_settlements = 4
+b_napata = castle
+
+culture = ethiopian
+religion = miaphysite

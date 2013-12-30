@@ -1,0 +1,8 @@
+title = c_arborea
+
+max_settlements = 3
+b_arborea = castle
+b_oristano = city
+
+culture = italian
+religion = catholic

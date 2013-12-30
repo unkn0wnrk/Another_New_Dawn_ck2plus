@@ -1,0 +1,7 @@
+title = c_inverness
+
+max_settlements = 4
+b_inverness = castle
+
+culture = scottish
+religion = catholic

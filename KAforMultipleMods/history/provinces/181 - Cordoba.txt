@@ -1,0 +1,11 @@
+title = c_cordoba
+
+max_settlements = 7
+b_alcolea = temple
+b_cordoba = castle
+b_lucena = city
+b_cabra = temple
+b_andujar = castle
+
+culture = andalusian_arabic
+religion = sunni

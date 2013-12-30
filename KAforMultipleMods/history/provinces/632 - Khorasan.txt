@@ -1,0 +1,9 @@
+title = c_khorasan
+
+max_settlements = 5
+b_bojnurd = temple
+b_shervan = city
+b_mashhad = castle
+
+culture = persian
+religion = zoroastrian

@@ -1,0 +1,9 @@
+title = c_teate
+
+max_settlements = 4
+b_chieti = castle
+b_nursia = city
+b_valva = temple
+
+culture = italian
+religion = catholic

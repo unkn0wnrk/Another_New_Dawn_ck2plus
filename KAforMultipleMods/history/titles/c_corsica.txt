@@ -1,0 +1,11 @@
+839.4.20 = {
+	holder = 100001548
+	law = succ_seniority
+	law = cognatic_succession
+	law = city_contract_2
+	law = city_tax_1
+	law = feudal_contract_2
+	law = feudal_tax_1
+	law = temple_contract_1
+	law = temple_tax_0
+}

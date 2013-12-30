@@ -1,0 +1,11 @@
+title = c_qom
+
+max_settlements = 5
+b_khourabad = temple
+b_qom = city
+b_jamkaran = castle
+b_salafchegan = city
+b_kahak = castle
+
+culture = persian
+religion = sunni

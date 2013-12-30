@@ -1,0 +1,9 @@
+title = c_modena
+
+max_settlements = 5
+b_modena = temple
+b_carpi = city
+b_reggionellemila = castle
+
+culture = italian
+religion = catholic

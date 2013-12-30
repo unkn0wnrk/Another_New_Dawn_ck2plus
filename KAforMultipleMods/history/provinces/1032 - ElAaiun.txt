@@ -1,0 +1,8 @@
+title = c_el_aaiun
+
+max_settlements = 3
+b_el_aaiun = castle
+b_boukra = city
+
+culture = bafour
+religion = west_african_pagan

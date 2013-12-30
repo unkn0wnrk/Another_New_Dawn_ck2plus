@@ -1,0 +1,9 @@
+title = c_peresechen
+
+max_settlements = 4
+b_iasi = castle
+b_orhei = city
+b_varzaresti = temple
+
+culture = russian
+religion = slavic_pagan

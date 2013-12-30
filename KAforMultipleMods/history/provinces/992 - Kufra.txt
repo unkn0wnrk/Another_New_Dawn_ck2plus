@@ -1,0 +1,7 @@
+title = c_kufra
+
+max_settlements = 2
+b_kufrah = castle
+
+culture = egyptian_arabic
+religion = miaphysite

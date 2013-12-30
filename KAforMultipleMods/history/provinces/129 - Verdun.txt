@@ -1,0 +1,9 @@
+title = c_verdun
+
+max_settlements = 5
+b_longuyon = temple
+b_verdun = castle
+b_etain = city
+
+culture = frankish
+religion = catholic

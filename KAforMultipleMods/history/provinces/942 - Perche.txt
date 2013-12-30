@@ -1,0 +1,9 @@
+title = c_perche
+
+max_settlements = 4
+b_perche = castle
+b_laloupe = city
+b_bretoncelle = temple
+
+culture = frankish
+religion = catholic

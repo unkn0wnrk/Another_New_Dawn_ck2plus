@@ -1,0 +1,9 @@
+title = c_mazandaran
+
+max_settlements = 5
+b_kalar = temple
+b_chaloos = city
+b_rostamrood = castle
+
+culture = persian
+religion = zoroastrian

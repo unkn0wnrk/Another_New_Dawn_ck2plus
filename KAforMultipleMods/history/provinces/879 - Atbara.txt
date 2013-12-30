@@ -1,0 +1,9 @@
+title = c_atbara
+
+max_settlements = 3
+b_atbara = castle
+b_omdurman = city
+b_begarawiyah = temple
+
+culture = nubian
+religion = miaphysite

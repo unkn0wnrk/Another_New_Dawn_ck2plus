@@ -1,0 +1,9 @@
+title = c_agen
+
+max_settlements = 4
+b_luzech = castle
+b_agen = temple
+b_cahors = city
+
+culture = occitan
+religion = catholic

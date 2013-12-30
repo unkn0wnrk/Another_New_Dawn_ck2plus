@@ -1,0 +1,7 @@
+title = c_travonia
+
+max_settlements = 3
+b_trebinje = castle
+
+culture = serbian
+religion = orthodox

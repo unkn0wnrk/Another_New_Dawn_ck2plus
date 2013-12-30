@@ -1,0 +1,5 @@
+837.8.221= {
+	holding_dynasty = 7312
+	liege = "d_sarqihya"
+	holder = 100001558
+}

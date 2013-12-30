@@ -1,0 +1,8 @@
+title = c_ossory
+
+max_settlements = 3
+b_aghaboe = castle
+b_grannagh = city
+
+culture = irish
+religion = catholic

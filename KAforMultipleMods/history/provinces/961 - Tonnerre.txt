@@ -1,0 +1,8 @@
+title = c_tonnerre
+
+max_settlements = 2
+b_tonnerre = castle
+b_mailly = temple
+
+culture = frankish
+religion = catholic

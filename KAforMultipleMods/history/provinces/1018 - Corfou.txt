@@ -1,0 +1,8 @@
+title = c_corfou
+
+max_settlements = 4
+b_corfu = castle
+b_paxos = city
+
+culture = greek
+religion = orthodox

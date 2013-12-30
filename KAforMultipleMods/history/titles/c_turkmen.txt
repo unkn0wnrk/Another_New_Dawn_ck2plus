@@ -1,0 +1,9 @@
+834.6.2 = {
+	holder = 100000202
+	law = succ_primogeniture
+	law = true_cognatic_succession
+	law = city_contract_2
+	law = city_tax_0
+	law = iqta_contract_1
+	law = iqta_tax_2
+}

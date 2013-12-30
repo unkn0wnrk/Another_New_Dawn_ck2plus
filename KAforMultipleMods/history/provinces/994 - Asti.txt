@@ -1,0 +1,8 @@
+title = c_asti
+
+max_settlements = 4
+b_asti = castle
+b_canelli = city
+
+culture = italian
+religion = catholic

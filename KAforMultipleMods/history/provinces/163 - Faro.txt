@@ -1,0 +1,9 @@
+title = c_faro
+
+max_settlements = 5
+b_faro = castle
+b_tavira = city
+b_loule = temple
+
+culture = maghreb_arabic
+religion = sunni

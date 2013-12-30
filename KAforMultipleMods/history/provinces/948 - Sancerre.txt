@@ -1,0 +1,9 @@
+title = c_sancerre
+
+max_settlements = 4
+b_sancerre = castle
+b_glen = city
+b_stsatur = temple
+
+culture = frankish
+religion = catholic

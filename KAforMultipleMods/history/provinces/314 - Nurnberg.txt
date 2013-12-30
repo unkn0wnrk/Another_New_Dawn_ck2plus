@@ -1,0 +1,10 @@
+title = c_nurnberg
+
+max_settlements = 6
+b_nurnberg = castle
+b_furth = city
+b_ellwangen = temple
+b_hohenburg = castle
+
+culture = german
+religion = catholic

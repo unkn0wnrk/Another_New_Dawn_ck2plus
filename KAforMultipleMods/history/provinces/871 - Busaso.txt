@@ -1,0 +1,9 @@
+title = c_busaso
+
+max_settlements = 4
+b_mosylon = castle
+b_bandaraassim = city
+b_lasanod = temple
+
+culture = somali
+religion = sunni
