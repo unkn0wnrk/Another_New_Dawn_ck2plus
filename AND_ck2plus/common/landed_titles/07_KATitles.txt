@@ -18641,6 +18641,10 @@ d_kaneia = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_chandax
+						has_landed_title = c_kaneia
+					}
 				}
 			}
 			d_kaneia = {
@@ -18785,6 +18789,10 @@ d_chandax = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_chandax
+						has_landed_title = c_kaneia
+					}
 				}
 			}
 			d_chandax = {
@@ -18929,6 +18937,10 @@ d_famagusta = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_famagusta
+						has_landed_title = c_limisol
+					}
 				}
 			}
 			d_famagusta = {
@@ -19073,6 +19085,10 @@ d_limisol = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_famagusta
+						has_landed_title = c_limisol
+					}
 				}
 			}
 			d_limisol = {
