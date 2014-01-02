@@ -346,7 +346,7 @@ noliege_conquest_islanddukes = {
 		ROOT = { NOT = { has_character_modifier = holy_truce_timer } }
 		FROM = { NOT = { has_character_modifier = holy_truce_timer } }
 		ROOT = {
-			AND = { 
+			AND = {
 				tier = DUKE
 				NOT = { num_of_duke_titles = 3 }
 				independent = yes
@@ -358,7 +358,12 @@ noliege_conquest_islanddukes = {
 							}
 						}
 					}
-					OR = { has_landed_title = d_austisland has_landed_title = d_vestisland }
+					OR = {
+						has_landed_title = d_austisland
+						has_landed_title = d_vestisland
+						has_landed_title = d_nordulandvestra
+						has_landed_title = d_nordulandeystra
+					}
 				}
 			}
 		}
@@ -390,6 +395,8 @@ noliege_conquest_islanddukes = {
 										NOT = { any_neighbor_province = { is_land = yes } }
 										province = 1
 										province = 2
+										province = 988
+										province = 989
 									}
 								}
 							}
