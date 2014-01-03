@@ -1,0 +1,9 @@
+title = c_tadjoura
+
+max_settlements = 3
+b_tadjoura = temple
+b_berenice = city
+b_obock = castle
+
+culture = somali
+religion = sunni

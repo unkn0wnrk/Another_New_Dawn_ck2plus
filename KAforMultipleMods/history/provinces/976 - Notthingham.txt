@@ -1,0 +1,9 @@
+title = c_notthingham
+
+max_settlements = 4
+b_southwell = castle
+b_nottingham = city
+b_newark = temple
+
+culture = saxon
+religion = catholic

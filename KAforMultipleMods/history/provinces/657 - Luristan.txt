@@ -1,0 +1,11 @@
+title = c_luristan
+
+max_settlements = 6
+b_dezbar = castle
+b_khorramabad = city
+b_borujerd = temple
+b_koohdasht = city
+b_aligoodarz = castle
+
+culture = persian
+religion = sunni

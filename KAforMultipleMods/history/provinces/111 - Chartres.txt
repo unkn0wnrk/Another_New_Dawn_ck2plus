@@ -1,0 +1,9 @@
+title = c_chartres
+
+max_settlements = 4
+b_chartres = castle
+b_nogent = temple
+b_epernon = city
+
+culture = frankish
+religion = catholic

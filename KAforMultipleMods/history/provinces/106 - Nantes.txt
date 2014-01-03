@@ -1,0 +1,9 @@
+title = c_nantes
+
+max_settlements = 5
+b_nantes = city
+b_guerande = castle
+b_redon = temple
+
+culture = breton
+religion = catholic

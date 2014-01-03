@@ -1,0 +1,9 @@
+title = c_marienburg
+
+max_settlements = 5
+b_marienburg = castle
+b_elbing = city
+b_braunsberg = temple
+
+culture = prussian
+religion = baltic_pagan

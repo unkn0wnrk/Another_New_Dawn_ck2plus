@@ -1,0 +1,7 @@
+title = c_nouakchott
+
+max_settlements = 2
+b_nouakchott = castle
+
+culture = bafour
+religion = west_african_pagan

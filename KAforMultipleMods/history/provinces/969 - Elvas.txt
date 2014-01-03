@@ -1,0 +1,8 @@
+title = c_elvas
+
+max_settlements = 4
+b_elvas = castle
+b_portalegre = city
+
+culture = andalusian_arabic
+religion = sunni

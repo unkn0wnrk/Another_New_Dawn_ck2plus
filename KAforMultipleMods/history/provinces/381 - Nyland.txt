@@ -1,0 +1,9 @@
+title = c_nyland
+
+max_settlements = 4
+b_raseborg = temple
+b_espoo = city
+b_porvoo = castle
+
+culture = finnish
+religion = finnish_pagan

@@ -1,0 +1,9 @@
+title = c_monaghan
+
+max_settlements = 3
+b_monaghan = castle
+b_clones = temple
+b_castleblayney = city
+
+culture = irish
+religion = catholic

@@ -1,0 +1,11 @@
+title = c_hormuz
+
+max_settlements = 6
+b_gombroon = castle
+b_abarkawan = city
+b_abu_musa = castle
+b_jiroth = temple
+b_minab = castle
+
+culture = persian
+religion = sunni

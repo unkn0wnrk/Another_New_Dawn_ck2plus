@@ -1,0 +1,10 @@
+title = c_sarqihya
+
+max_settlements = 5
+b_sarqinya = city
+b_clysma = castle
+b_atfih = temple
+b_taufiq = castle
+
+culture = egyptian_arabic
+religion = miaphysite

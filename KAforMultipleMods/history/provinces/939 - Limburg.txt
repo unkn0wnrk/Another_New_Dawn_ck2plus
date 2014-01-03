@@ -1,0 +1,9 @@
+title = c_limburg
+
+max_settlements = 4
+b_limburg = castle
+b_valkenburg = temple
+b_maastricht = city
+
+culture = dutch
+religion = catholic

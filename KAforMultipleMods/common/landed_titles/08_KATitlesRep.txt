@@ -1,0 +1,232 @@
+b_rep_on = {
+	culture = italian
+	religion = catholic
+}
+b_rep_tw = {
+	culture = italian
+	religion = catholic
+}
+b_rep_th = {
+	culture = italian
+	religion = catholic
+}
+b_rep_onth = {
+	culture = egyptian_arabic
+	religion = miaphysite
+}
+b_rep_twze = {
+	culture = egyptian_arabic
+	religion = miaphysite
+}
+b_rep_twon = {
+	culture = egyptian_arabic
+	religion = miaphysite
+}
+b_rep_thon = {
+	culture = frankish
+	religion = catholic
+}
+b_rep_thtw = {
+	culture = frankish
+	religion = catholic
+}
+b_rep_thth = {
+	culture = frankish
+	religion = catholic
+}
+b_rep_onzeze = {
+	culture = frankish
+	religion = catholic
+}
+b_rep_onzeth = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_ononze = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_ononon = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_ontwon = {
+	culture = italian
+	religion = catholic
+}
+b_rep_ontwtw = {
+	culture = italian
+	religion = catholic
+}
+b_rep_ontwth = {
+	culture = italian
+	religion = catholic
+}
+b_rep_onthze = {
+	culture = italian
+	religion = catholic
+}
+b_rep_onthth = {
+	culture = samoyed
+	religion = finnish_pagan
+}
+b_rep_twzeze = {
+	culture = samoyed
+	religion = finnish_pagan
+}
+b_rep_twzeon = {
+	culture = samoyed
+	religion = finnish_pagan
+}
+b_rep_twzetw = {
+	culture = samoyed
+	religion = finnish_pagan
+}
+b_rep_twonon = {
+	culture = pommeranian
+	religion = slavic_pagan
+}
+b_rep_twontw = {
+	culture = pommeranian
+	religion = slavic_pagan
+}
+b_rep_twonth = {
+	culture = pommeranian
+	religion = slavic_pagan
+}
+b_rep_twtwth = {
+	culture = german
+	religion = catholic
+}
+b_rep_twthze = {
+	culture = german
+	religion = catholic
+}
+b_rep_twthon = {
+	culture = german
+	religion = catholic
+}
+b_rep_twthtw = {
+	culture = german
+	religion = catholic
+}
+b_rep_twthth = {
+	culture = german
+	religion = catholic
+}
+b_rep_thzeon = {
+	culture = saxon
+	religion = catholic
+}
+b_rep_thzetw = {
+	culture = saxon
+	religion = catholic
+}
+b_rep_thzeth = {
+	culture = saxon
+	religion = catholic
+}
+b_rep_thonze = {
+	culture = saxon
+	religion = catholic
+}
+b_rep_thonon = {
+	culture = saxon
+	religion = catholic
+}
+b_rep_thonth = {
+	culture = bulgarian
+	religion = orthodox
+}
+b_rep_thtwze = {
+	culture = bulgarian
+	religion = orthodox
+}
+b_rep_thtwon = {
+	culture = bulgarian
+	religion = orthodox
+}
+b_rep_ththon = {
+	culture = breton
+	religion = catholic
+}
+b_rep_ththtw = {
+	culture = breton
+	religion = catholic
+}
+b_rep_ththth = {
+	culture = breton
+	religion = catholic
+}
+b_rep_onzezeze = {
+	culture = breton
+	religion = catholic
+}
+b_rep_onzezeth = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzeonze = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzeonon = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzeontw = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzeonth = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzetwon = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzetwtw = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzetwth = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzethze = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzethon = {
+	culture = greek
+	religion = orthodox
+}
+b_rep_onzethth = {
+	culture = italian
+	religion = catholic
+}
+b_rep_ononzeze = {
+	culture = italian
+	religion = catholic
+}
+b_rep_ononzeon = {
+	culture = italian
+	religion = catholic
+}
+b_rep_ononzetw = {
+	culture = italian
+	religion = catholic
+}
+b_rep_onononon = {
+	culture = prussian
+	religion = baltic_pagan
+}
+b_rep_ononontw = {
+	culture = prussian
+	religion = baltic_pagan
+}
+b_rep_onononth = {
+	culture = prussian
+	religion = baltic_pagan
+}

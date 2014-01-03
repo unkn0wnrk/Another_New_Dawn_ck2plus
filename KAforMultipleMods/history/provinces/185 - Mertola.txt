@@ -1,0 +1,9 @@
+title = c_mertola
+
+max_settlements = 4
+b_mertola = temple
+b_beja = city
+b_monsaraz = castle
+
+culture = maghreb_arabic
+religion = sunni

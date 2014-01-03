@@ -1,0 +1,5 @@
+837.11.81= {
+	holding_dynasty = 4002
+	liege = "d_dunbar"
+	holder = 100001582
+}

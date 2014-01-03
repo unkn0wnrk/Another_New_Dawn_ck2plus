@@ -1,0 +1,9 @@
+title = c_rennes
+
+max_settlements = 5
+b_rennes = temple
+b_st_malo = city
+b_dol = castle
+
+culture = breton
+religion = catholic

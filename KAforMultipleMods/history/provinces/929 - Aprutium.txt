@@ -1,0 +1,9 @@
+title = c_aprutium
+
+max_settlements = 4
+b_avezzano = city
+b_pescara = castle
+b_teramo = temple
+
+culture = italian
+religion = catholic

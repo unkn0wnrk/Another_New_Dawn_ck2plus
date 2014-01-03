@@ -1,0 +1,9 @@
+title = c_logudoro
+
+max_settlements = 3
+b_portotorres = castle
+b_sassari = city
+b_ardara = temple
+
+culture = italian
+religion = catholic

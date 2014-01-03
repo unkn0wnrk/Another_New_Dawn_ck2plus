@@ -1,0 +1,9 @@
+title = c_bolgatanga
+
+max_settlements = 5
+b_bolgatanga = castle
+b_nuarungu = city
+b_naa_bwewaa = temple
+
+culture = manden
+religion = west_african_pagan

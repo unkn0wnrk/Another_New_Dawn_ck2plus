@@ -1,0 +1,9 @@
+title = c_suze
+
+max_settlements = 4
+b_torino = castle
+b_suza = city
+b_bussoleno = temple
+
+culture = italian
+religion = catholic

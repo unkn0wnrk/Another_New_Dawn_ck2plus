@@ -1,0 +1,7 @@
+title = c_nahud
+
+max_settlements = 2
+b_nahud = castle
+
+culture = ethiopian
+religion = miaphysite

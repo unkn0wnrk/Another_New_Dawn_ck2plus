@@ -1,0 +1,7 @@
+title = c_tagant
+
+max_settlements = 3
+b_rachid = castle
+
+culture = maghreb_arabic
+religion = west_african_pagan

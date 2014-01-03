@@ -1,0 +1,5 @@
+838.10.161= {
+	holding_dynasty = 565
+	liege = "d_samoyeds"
+	holder = 100001575
+}

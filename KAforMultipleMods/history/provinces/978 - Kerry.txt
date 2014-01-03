@@ -1,0 +1,9 @@
+title = c_kerry
+
+max_settlements = 4
+b_ardfert = castle
+b_dingle = city
+b_abbeydorney = temple
+
+culture = irish
+religion = catholic

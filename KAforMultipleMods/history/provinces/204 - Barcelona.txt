@@ -1,0 +1,10 @@
+title = c_barcelona
+
+max_settlements = 6
+b_manresa = castle
+b_barcelona = city
+b_vic = temple
+b_osona = castle
+
+culture = catalan
+religion = catholic

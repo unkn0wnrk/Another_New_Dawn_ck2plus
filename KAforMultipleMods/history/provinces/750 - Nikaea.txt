@@ -1,0 +1,9 @@
+title = c_nikaea
+
+max_settlements = 5
+b_nikaea = castle
+b_kios = city
+b_optimatum = temple
+
+culture = greek
+religion = orthodox

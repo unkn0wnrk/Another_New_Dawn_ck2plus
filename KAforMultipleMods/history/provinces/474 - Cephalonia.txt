@@ -1,0 +1,8 @@
+title = c_cephalonia
+
+max_settlements = 3
+b_palaiofrourio = castle
+b_ithaca = city
+
+culture = greek
+religion = orthodox

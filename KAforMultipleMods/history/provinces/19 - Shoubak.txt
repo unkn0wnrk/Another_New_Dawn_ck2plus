@@ -1,0 +1,9 @@
+title = c_shoubak
+
+max_settlements = 4
+b_shoubak = castle
+b_edom = temple
+b_tafilah = city
+
+culture = levantine_arabic
+religion = sunni

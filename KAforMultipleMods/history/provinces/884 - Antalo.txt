@@ -1,0 +1,9 @@
+title = c_antalo
+
+max_settlements = 3
+b_entoto = castle
+b_shewa = city
+b_hayq = temple
+
+culture = ethiopian
+religion = pagan

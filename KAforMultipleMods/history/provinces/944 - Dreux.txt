@@ -1,0 +1,8 @@
+title = c_dreux
+
+max_settlements = 2
+b_verneuil = castle
+b_dreux = city
+
+culture = frankish
+religion = catholic

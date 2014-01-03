@@ -1,0 +1,8 @@
+title = c_baol
+
+max_settlements = 3
+b_jurbel = castle
+b_mbour = temple
+
+culture = jolof
+religion = west_african_pagan

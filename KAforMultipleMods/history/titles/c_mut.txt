@@ -1,0 +1,9 @@
+837.5.19 = {
+	holder = 100001161
+	law = succ_feudal_elective
+	law = agnatic_succession
+	law = city_contract_0
+	law = city_tax_0
+	law = iqta_contract_2
+	law = iqta_tax_0
+}

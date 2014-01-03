@@ -1,0 +1,9 @@
+title = c_ponthieu
+
+max_settlements = 4
+b_abbeville = castle
+b_montreuil = city
+b_crecy = temple
+
+culture = frankish
+religion = catholic

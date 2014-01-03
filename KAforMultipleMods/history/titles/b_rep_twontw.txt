@@ -1,0 +1,5 @@
+836.11.41= {
+	holding_dynasty = 1000035792
+	liege = "d_stettin"
+	holder = 100001576
+}

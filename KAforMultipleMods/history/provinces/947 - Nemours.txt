@@ -1,0 +1,9 @@
+title = c_nemours
+
+max_settlements = 4
+b_joigny = castle
+b_nemours = city
+b_nogentsurseine = temple
+
+culture = frankish
+religion = catholic

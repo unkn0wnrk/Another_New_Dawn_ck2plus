@@ -1,0 +1,9 @@
+title = c_schwaben
+
+max_settlements = 4
+b_tubingen = city
+b_heiligenberg = castle
+b_konstanz = temple
+
+culture = german
+religion = catholic

@@ -1,0 +1,7 @@
+title = c_niono
+
+max_settlements = 3
+b_niono = castle
+
+culture = sosso
+religion = west_african_pagan

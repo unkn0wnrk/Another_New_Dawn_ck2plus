@@ -1,0 +1,7 @@
+title = c_meroe
+
+max_settlements = 3
+b_meroe = castle
+
+culture = ethiopian
+religion = miaphysite

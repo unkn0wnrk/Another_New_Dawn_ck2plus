@@ -1,0 +1,8 @@
+title = c_scalovia
+
+max_settlements = 3
+b_ragnit = city
+b_russ = castle
+
+culture = prussian
+religion = baltic_pagan

@@ -1,0 +1,5 @@
+833.4.21= {
+	holding_dynasty = 17007
+	liege = "d_mesembria"
+	holder = 100001591
+}

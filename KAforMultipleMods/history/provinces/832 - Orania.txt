@@ -1,0 +1,10 @@
+title = c_orania
+
+max_settlements = 4
+b_oran = temple
+b_mostaganem = city
+b_aintemouchent = castle
+b_maghnia = castle
+
+culture = maghreb_arabic
+religion = ibadi

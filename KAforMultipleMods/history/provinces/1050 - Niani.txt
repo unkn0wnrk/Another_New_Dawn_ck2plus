@@ -1,0 +1,7 @@
+title = c_niani
+
+max_settlements = 3
+b_niani = temple
+
+culture = sosso
+religion = west_african_pagan

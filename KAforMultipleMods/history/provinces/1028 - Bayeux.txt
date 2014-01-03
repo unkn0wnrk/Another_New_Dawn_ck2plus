@@ -1,0 +1,9 @@
+title = c_bayeux
+
+max_settlements = 5
+b_bayeux = castle
+b_stmarvieu = temple
+b_creully = city
+
+culture = frankish
+religion = catholic

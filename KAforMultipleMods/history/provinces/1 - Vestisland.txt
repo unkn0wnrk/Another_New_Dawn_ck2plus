@@ -1,0 +1,8 @@
+title = c_vestisland
+
+max_settlements = 3
+b_reykjavik = temple
+b_skalholt = castle
+
+culture = norse
+religion = norse_pagan

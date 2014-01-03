@@ -1,0 +1,9 @@
+title = c_oversticht
+
+max_settlements = 3
+b_deventer = castle
+b_kampen = city
+b_coevorden = temple
+
+culture = dutch
+religion = catholic

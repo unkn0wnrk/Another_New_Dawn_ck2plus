@@ -1,0 +1,11 @@
+836.6.18 = {
+	holder = 100001238
+	law = succ_gavelkind
+	law = agnatic_succession
+	law = city_contract_1
+	law = city_tax_2
+	law = feudal_contract_1
+	law = feudal_tax_2
+	law = temple_contract_2
+	law = temple_tax_1
+}
