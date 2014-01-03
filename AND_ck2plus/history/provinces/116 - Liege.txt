@@ -1,9 +1,0 @@
-title = c_liege
-
-max_settlements = 4
-b_liege = temple
-b_namur = castle
-b_bastogne = city
-
-culture = frankish
-religion = catholic

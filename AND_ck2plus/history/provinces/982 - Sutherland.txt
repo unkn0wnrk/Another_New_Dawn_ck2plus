@@ -1,9 +1,0 @@
-title = c_sutherland
-
-max_settlements = 2
-b_sutherland = castle
-b_durness = temple
-b_brora = city
-
-culture = scottish
-religion = catholic

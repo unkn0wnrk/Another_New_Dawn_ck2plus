@@ -1,8 +1,0 @@
-title = c_socotra
-
-max_settlements = 2
-b_socotra = castle
-b_hadibu = city
-
-culture = somali
-religion = nestorian

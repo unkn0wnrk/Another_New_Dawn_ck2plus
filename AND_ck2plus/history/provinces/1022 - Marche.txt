@@ -1,8 +1,0 @@
-title = c_marche
-
-max_settlements = 4
-b_rimini = castle
-b_pesaro = temple
-
-culture = italian
-religion = catholic

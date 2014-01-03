@@ -1,8 +1,0 @@
-title = c_soumpi
-
-max_settlements = 3
-b_soumpi = castle
-b_niafunke = city
-
-culture = sosso
-religion = west_african_pagan

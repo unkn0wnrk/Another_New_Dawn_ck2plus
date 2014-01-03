@@ -1,9 +1,0 @@
-title = c_maelienydd
-
-max_settlements = 4
-b_crug_eryr = castle
-b_abbeycwmhir = temple
-b_llysdinam = city
-
-culture = welsh
-religion = catholic

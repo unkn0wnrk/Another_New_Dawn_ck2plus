@@ -1,9 +1,0 @@
-title = c_gemer
-
-max_settlements = 4
-b_gomor = temple
-b_dobsina = city
-b_losonc = castle
-
-culture = bohemian
-religion = catholic

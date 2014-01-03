@@ -1,9 +1,0 @@
-title = c_ulster
-
-max_settlements = 5
-b_downpatrick = temple
-b_connor = castle
-b_carrickfergus = city
-
-culture = irish
-religion = catholic

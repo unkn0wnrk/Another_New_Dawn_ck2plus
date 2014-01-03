@@ -1,8 +1,0 @@
-title = c_comminges
-
-max_settlements = 3
-b_comminges = castle
-b_nebouzan = city
-
-culture = occitan
-religion = catholic

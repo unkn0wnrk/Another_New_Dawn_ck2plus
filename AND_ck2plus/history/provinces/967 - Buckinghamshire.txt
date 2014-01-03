@@ -1,9 +1,0 @@
-title = c_bucks
-
-max_settlements = 5
-b_buckingham = castle
-b_wycombe = city
-b_aylesbury = temple
-
-culture = saxon
-religion = catholic

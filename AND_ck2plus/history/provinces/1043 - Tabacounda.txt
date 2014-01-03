@@ -1,7 +1,0 @@
-title = c_tabacounda
-
-max_settlements = 3
-b_tabacounda = castle
-
-culture = jolof
-religion = west_african_pagan

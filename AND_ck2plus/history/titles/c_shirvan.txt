@@ -1,9 +1,0 @@
-838.9.19 = {
-	holder = 100001060
-	law = succ_feudal_elective
-	law = cognatic_succession
-	law = city_contract_0
-	law = city_tax_1
-	law = iqta_contract_1
-	law = iqta_tax_1
-}

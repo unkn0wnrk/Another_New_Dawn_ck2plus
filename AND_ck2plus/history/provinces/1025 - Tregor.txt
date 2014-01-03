@@ -1,9 +1,0 @@
-title = c_tregor
-
-max_settlements = 4
-b_guingamp = castle
-b_treguier = city
-b_plougonven = temple
-
-culture = breton
-religion = catholic

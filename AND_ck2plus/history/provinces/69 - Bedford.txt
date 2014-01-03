@@ -1,9 +1,0 @@
-title = c_bedford
-
-max_settlements = 4
-b_bedford = castle
-b_luton = city
-b_berkhamsted = temple
-
-culture = saxon
-religion = catholic

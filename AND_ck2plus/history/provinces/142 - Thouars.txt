@@ -1,9 +1,0 @@
-title = c_thouars
-
-max_settlements = 4
-b_thouars = temple
-b_larochelle = city
-b_lucon = castle
-
-culture = frankish
-religion = catholic

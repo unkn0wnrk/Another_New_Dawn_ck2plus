@@ -1,9 +1,0 @@
-title = c_hayya
-
-max_settlements = 4
-b_marawi = castle
-b_kanisah = city
-b_affat = temple
-
-culture = nubian
-religion = miaphysite

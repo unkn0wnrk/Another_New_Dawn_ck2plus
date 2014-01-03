@@ -1,8 +1,0 @@
-title = c_chiny
-
-max_settlements = 3
-b_chiny = castle
-b_orval = temple
-
-culture = frankish
-religion = catholic

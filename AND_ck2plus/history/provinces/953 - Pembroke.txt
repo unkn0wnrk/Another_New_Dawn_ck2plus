@@ -1,9 +1,0 @@
-title = c_pembroke
-
-max_settlements = 3
-b_pembroke = castle
-b_st_ishmaels = temple
-b_hwlffordd = city
-
-culture = welsh
-religion = catholic

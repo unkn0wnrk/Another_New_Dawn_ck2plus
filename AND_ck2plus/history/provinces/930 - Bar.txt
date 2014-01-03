@@ -1,9 +1,0 @@
-title = c_bar
-
-max_settlements = 4
-b_barlecomte = castle
-b_barleduc = city
-b_stdisier = temple
-
-culture = frankish
-religion = catholic

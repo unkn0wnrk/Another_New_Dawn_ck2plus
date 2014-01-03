@@ -1,8 +1,0 @@
-title = c_mordva
-
-max_settlements = 4
-b_saransk = temple
-b_temnikow = city
-
-culture = mordvin
-religion = finnish_pagan

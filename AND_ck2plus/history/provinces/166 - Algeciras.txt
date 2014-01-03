@@ -1,9 +1,0 @@
-title = c_algeciras
-
-max_settlements = 3
-b_gibraltar = temple
-b_algericas = city
-b_ronda = castle
-
-culture = andalusian_arabic
-religion = sunni

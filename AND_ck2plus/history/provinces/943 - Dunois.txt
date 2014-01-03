@@ -1,9 +1,0 @@
-title = c_dunois
-
-max_settlements = 3
-b_chateaudun = castle
-b_bonneval = temple
-b_cloyes = city
-
-culture = frankish
-religion = catholic

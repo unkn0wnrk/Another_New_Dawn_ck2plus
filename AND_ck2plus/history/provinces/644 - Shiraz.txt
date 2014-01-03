@@ -1,9 +1,0 @@
-title = c_shiraz
-
-max_settlements = 4
-b_shiraz = temple
-b_bishapur = city
-b_persepolis = castle
-
-culture = persian
-religion = sunni

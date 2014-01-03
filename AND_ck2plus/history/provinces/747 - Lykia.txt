@@ -1,9 +1,0 @@
-title = c_lykia
-
-max_settlements = 4
-b_halikarnassos = city
-b_telmissos = castle
-b_myra = temple
-
-culture = greek
-religion = orthodox

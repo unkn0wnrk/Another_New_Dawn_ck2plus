@@ -1,7 +1,0 @@
-title = c_north_dvina
-
-max_settlements = 3
-b_kholmogory = castle
-
-culture = samoyed
-religion = finnish_pagan

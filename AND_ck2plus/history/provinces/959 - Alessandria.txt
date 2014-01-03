@@ -1,8 +1,0 @@
-title = c_alessandria
-
-max_settlements = 3
-b_alessandria = temple
-b_solero = castle
-
-culture = italian
-religion = catholic

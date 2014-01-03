@@ -1,9 +1,0 @@
-title = c_karbala
-
-max_settlements = 5
-b_ainaltamur = castle
-b_hindiya = city
-b_karbala = temple
-
-culture = levantine_arabic
-religion = sunni

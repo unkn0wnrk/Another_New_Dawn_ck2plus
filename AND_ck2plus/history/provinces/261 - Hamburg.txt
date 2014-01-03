@@ -1,9 +1,0 @@
-title = c_hamburg
-
-max_settlements = 6
-b_hamburg = castle
-b_altona = temple
-b_dithmarschen = city
-
-culture = german
-religion = catholic

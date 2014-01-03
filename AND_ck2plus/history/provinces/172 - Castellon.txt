@@ -1,9 +1,0 @@
-title = c_castellon
-
-max_settlements = 4
-b_castellon = temple
-b_alpuente = city
-b_nules = castle
-
-culture = catalan
-religion = catholic

@@ -1,9 +1,0 @@
-title = c_plauen
-
-max_settlements = 4
-b_plauen = castle
-b_leipzig = city
-b_merseburg = temple
-
-culture = pommeranian
-religion = slavic_pagan

@@ -1,9 +1,0 @@
-title = c_ziguincha
-
-max_settlements = 4
-b_ziguincha = castle
-b_serekunda = city
-b_banjul = temple
-
-culture = jolof
-religion = west_african_pagan

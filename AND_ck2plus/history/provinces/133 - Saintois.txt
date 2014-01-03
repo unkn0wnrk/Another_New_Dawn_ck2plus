@@ -1,9 +1,0 @@
-title = c_saintois
-
-max_settlements = 4
-b_vaudemont = temple
-b_brixey = city
-b_saintois = castle
-
-culture = frankish
-religion = catholic

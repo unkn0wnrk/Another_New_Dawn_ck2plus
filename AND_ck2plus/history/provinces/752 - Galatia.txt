@@ -1,8 +1,0 @@
-title = c_galatia
-
-max_settlements = 4
-b_mikissos = castle
-b_asponia = city
-
-culture = greek
-religion = orthodox

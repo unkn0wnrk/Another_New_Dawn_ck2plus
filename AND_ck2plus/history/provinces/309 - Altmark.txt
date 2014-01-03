@@ -1,9 +1,0 @@
-title = c_altmark
-
-max_settlements = 4
-b_stendal = temple
-b_halberstedt = castle
-b_walbeck = city
-
-culture = pommeranian
-religion = slavic_pagan

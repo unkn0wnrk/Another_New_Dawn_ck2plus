@@ -1,9 +1,0 @@
-title = c_ceredigion
-
-max_settlements = 3
-b_tregaron = castle
-b_llangeitho = temple
-b_aberaeron = city
-
-culture = welsh
-religion = catholic

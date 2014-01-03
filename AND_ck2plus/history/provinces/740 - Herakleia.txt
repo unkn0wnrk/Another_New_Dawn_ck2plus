@@ -1,9 +1,0 @@
-title = c_herakleia
-
-max_settlements = 4
-b_herakleia = castle
-b_flaviopolis = city
-b_claudiopolis = temple
-
-culture = greek
-religion = orthodox

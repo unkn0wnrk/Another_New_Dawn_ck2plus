@@ -1,8 +1,0 @@
-title = c_vintimille
-
-max_settlements = 3
-b_ventimiglia = castle
-b_sanremo = city
-
-culture = italian
-religion = catholic

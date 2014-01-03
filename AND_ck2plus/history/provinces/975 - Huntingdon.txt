@@ -1,9 +1,0 @@
-title = c_huntingdon
-
-max_settlements = 3
-b_huntingdon = castle
-b_ramsey = city
-b_stives = temple
-
-culture = saxon
-religion = catholic

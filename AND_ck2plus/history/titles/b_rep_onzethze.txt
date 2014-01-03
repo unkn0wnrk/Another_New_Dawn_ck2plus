@@ -1,5 +1,0 @@
-834.7.71= {
-	holding_dynasty = 101239
-	liege = "d_seleukeia"
-	holder = 100001605
-}

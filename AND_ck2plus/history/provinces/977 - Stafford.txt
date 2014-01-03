@@ -1,9 +1,0 @@
-title = c_stafford
-
-max_settlements = 4
-b_lichfield = castle
-b_stafford = city
-b_tamworth = temple
-
-culture = saxon
-religion = catholic

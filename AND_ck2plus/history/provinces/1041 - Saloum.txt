@@ -1,8 +1,0 @@
-title = c_saloum
-
-max_settlements = 3
-b_kahone = castle
-b_mbissel = city
-
-culture = jolof
-religion = west_african_pagan

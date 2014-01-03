@@ -1,7 +1,0 @@
-title = c_aoudagast
-
-max_settlements = 3
-b_aoudagast = castle
-
-culture = manden
-religion = west_african_pagan

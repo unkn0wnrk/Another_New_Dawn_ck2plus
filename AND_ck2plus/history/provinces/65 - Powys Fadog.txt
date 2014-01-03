@@ -1,9 +1,0 @@
-title = c_powys_fadog
-
-max_settlements = 4
-b_dinas_bran = castle
-b_radnor = city
-b_llangollen = temple
-
-culture = welsh
-religion = catholic

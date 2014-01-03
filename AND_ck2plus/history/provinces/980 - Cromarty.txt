@@ -1,7 +1,0 @@
-title = c_cromarty
-
-max_settlements = 2
-b_cromarty = castle
-
-culture = scottish
-religion = catholic

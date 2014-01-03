@@ -1,8 +1,0 @@
-title = c_sinkat
-
-max_settlements = 3
-b_sinkat = castle
-b_salum = city
-
-culture = ethiopian
-religion = miaphysite

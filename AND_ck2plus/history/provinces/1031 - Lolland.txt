@@ -1,9 +1,0 @@
-title = c_lolland
-
-max_settlements = 4
-b_nykobing_falster = castle
-b_nakskov = city
-b_maribo = temple
-
-culture = norse
-religion = norse_pagan

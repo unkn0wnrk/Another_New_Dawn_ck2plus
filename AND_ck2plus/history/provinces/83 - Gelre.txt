@@ -1,9 +1,0 @@
-title = c_gelre
-
-max_settlements = 5
-b_nijmegen = castle
-b_zutphen = temple
-b_zwolle = city
-
-culture = dutch
-religion = catholic

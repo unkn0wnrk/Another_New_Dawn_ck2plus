@@ -1,8 +1,0 @@
-title = c_gaete
-
-max_settlements = 4
-b_gaeta = castle
-b_formia = city
-
-culture = italian
-religion = catholic

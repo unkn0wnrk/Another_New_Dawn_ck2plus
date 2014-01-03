@@ -1,9 +1,0 @@
-title = c_grisons
-
-max_settlements = 3
-b_bellinzona = temple
-b_locarno = city
-b_disentis = castle
-
-culture = italian
-religion = catholic

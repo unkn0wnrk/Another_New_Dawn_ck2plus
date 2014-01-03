@@ -1,8 +1,0 @@
-title = c_guadalajara
-
-max_settlements = 3
-b_villanuevadelajara = castle
-b_guadalajara = city
-
-culture = andalusian_arabic
-religion = sunni

@@ -1,8 +1,0 @@
-title = c_savona
-
-max_settlements = 3
-b_savona = castle
-b_albenga = city
-
-culture = italian
-religion = catholic

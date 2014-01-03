@@ -1,8 +1,0 @@
-title = c_sligo
-
-max_settlements = 3
-b_sligo = temple
-b_drumcliffe = city
-
-culture = irish
-religion = catholic

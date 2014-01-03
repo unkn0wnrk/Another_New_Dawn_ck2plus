@@ -1,8 +1,0 @@
-title = c_malta
-
-max_settlements = 3
-b_sliema = castle
-b_mdina = city
-
-culture = greek
-religion = orthodox

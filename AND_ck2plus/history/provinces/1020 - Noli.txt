@@ -1,7 +1,0 @@
-title = c_noli
-
-max_settlements = 3
-b_noli = castle
-
-culture = italian
-religion = catholic

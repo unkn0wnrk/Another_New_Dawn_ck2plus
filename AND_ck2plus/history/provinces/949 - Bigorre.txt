@@ -1,9 +1,0 @@
-title = c_bigorre
-
-max_settlements = 4
-b_tarbes = temple
-b_lourdes = castle
-b_bagnere = city
-
-culture = occitan
-religion = catholic

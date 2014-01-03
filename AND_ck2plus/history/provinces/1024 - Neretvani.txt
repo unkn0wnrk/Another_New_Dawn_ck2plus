@@ -1,8 +1,0 @@
-title = c_neretvani
-
-max_settlements = 3
-b_ostrok = castle
-b_mokros = city
-
-culture = croatian
-religion = catholic

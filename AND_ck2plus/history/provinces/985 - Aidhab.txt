@@ -1,7 +1,0 @@
-title = c_aidhab
-
-max_settlements = 3
-b_aidhab = castle
-
-culture = nubian
-religion = miaphysite

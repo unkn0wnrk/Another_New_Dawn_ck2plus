@@ -1,9 +1,0 @@
-title = c_palencia
-
-max_settlements = 4
-b_palencia = castle
-b_aguilardecampo = temple
-b_carrion = city
-
-culture = castillan
-religion = catholic

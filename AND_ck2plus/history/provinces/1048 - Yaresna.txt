@@ -1,8 +1,0 @@
-title = c_yaresna
-
-max_settlements = 3
-b_yaresna = castle
-b_kayes = city
-
-culture = manden
-religion = west_african_pagan

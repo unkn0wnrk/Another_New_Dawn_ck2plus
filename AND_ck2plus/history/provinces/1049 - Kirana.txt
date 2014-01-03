@@ -1,8 +1,0 @@
-title = c_kirana
-
-max_settlements = 3
-b_kirana = castle
-b_bafoulable = city
-
-culture = manden
-religion = west_african_pagan

@@ -1,7 +1,0 @@
-title = c_barka
-
-max_settlements = 3
-b_barka = castle
-
-culture = ethiopian
-religion = miaphysite

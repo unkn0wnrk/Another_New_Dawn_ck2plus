@@ -1,9 +1,0 @@
-title = c_omsk
-
-max_settlements = 4
-b_omsk = castle
-b_tara = city
-b_isilkul = temple
-
-culture = cuman
-religion = tengri_pagan

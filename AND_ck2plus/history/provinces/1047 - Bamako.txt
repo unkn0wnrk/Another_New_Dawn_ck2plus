@@ -1,9 +1,0 @@
-title = c_bamako
-
-max_settlements = 4
-b_sema = castle
-b_bamako = temple
-b_koro_koulikoro = city
-
-culture = manden
-religion = west_african_pagan

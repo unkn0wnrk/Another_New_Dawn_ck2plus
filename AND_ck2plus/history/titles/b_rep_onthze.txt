@@ -1,5 +1,0 @@
-836.11.121= {
-	holding_dynasty = 7252
-	liege = "d_aprutium"
-	holder = 100001571
-}

@@ -1,8 +1,0 @@
-title = c_laspezia
-
-max_settlements = 4
-b_laspezia = castle
-b_sarzana = city
-
-culture = italian
-religion = catholic

@@ -1,8 +1,0 @@
-title = c_morfil
-
-max_settlements = 4
-b_morfil = castle
-b_podor = city
-
-culture = jolof
-religion = west_african_pagan

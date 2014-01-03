@@ -1,9 +1,0 @@
-title = c_westderby
-
-max_settlements = 3
-b_westderby = castle
-b_farnworth = temple
-b_manchester = city
-
-culture = saxon
-religion = catholic

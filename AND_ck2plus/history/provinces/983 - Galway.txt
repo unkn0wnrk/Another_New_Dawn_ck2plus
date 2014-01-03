@@ -1,8 +1,0 @@
-title = c_galway
-
-max_settlements = 2
-b_galway = castle
-b_clonfert = city
-
-culture = irish
-religion = catholic
