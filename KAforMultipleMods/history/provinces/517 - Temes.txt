@@ -5,5 +5,5 @@ b_temesvar = temple
 b_csak = city
 b_lugos = castle
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

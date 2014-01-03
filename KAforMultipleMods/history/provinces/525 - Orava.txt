@@ -5,5 +5,5 @@ b_arvavara = castle
 b_rozsahegy = city
 b_liptovskymikulas = temple
 
-culture = bohemian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_sieradz = castle
 b_leczyka = city
 b_radomsko = temple
 
-culture = polish
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

@@ -1,0 +1,20 @@
+# 1047 - Bamako
+
+# County Title
+title = c_bamako
+
+# Settlements
+max_settlements = 4
+b_sema = castle
+b_bamako = temple
+b_koro_koulikoro = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+
+# History
+1084.1.1 = {
+    religion = sunni
+}

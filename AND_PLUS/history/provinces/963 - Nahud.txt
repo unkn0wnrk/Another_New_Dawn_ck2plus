@@ -1,0 +1,14 @@
+
+# County Title
+title = c_nahud
+
+# Settlements
+max_settlements = 2
+b_nahud = castle
+#b_zabad = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History

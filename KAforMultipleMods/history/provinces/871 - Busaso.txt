@@ -5,5 +5,5 @@ b_mosylon = castle
 b_bandaraassim = city
 b_lasanod = temple
 
-culture = somali
-religion = sunni
+culture = tribal
+religion = ancestry

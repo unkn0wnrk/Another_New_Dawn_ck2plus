@@ -1,0 +1,12 @@
+# County Title
+title = c_janub
+
+# Settlements
+max_settlements = 2
+b_janub = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History

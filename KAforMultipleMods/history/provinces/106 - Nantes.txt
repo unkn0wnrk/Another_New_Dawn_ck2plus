@@ -5,5 +5,5 @@ b_nantes = city
 b_guerande = castle
 b_redon = temple
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

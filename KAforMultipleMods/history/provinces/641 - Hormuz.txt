@@ -7,5 +7,5 @@ b_abu_musa = castle
 b_jiroth = temple
 b_minab = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

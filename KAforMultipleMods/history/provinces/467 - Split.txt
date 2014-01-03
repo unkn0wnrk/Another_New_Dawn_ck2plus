@@ -4,5 +4,5 @@ max_settlements = 4
 b_trogir = castle
 b_split = city
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

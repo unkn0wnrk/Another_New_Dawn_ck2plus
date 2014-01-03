@@ -8,5 +8,5 @@ b_khansar = temple
 b_sedeh = city
 b_ardestan = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

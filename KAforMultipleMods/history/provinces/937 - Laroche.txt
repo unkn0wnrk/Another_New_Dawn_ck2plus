@@ -3,5 +3,5 @@ title = c_laroche
 max_settlements = 3
 b_laroche = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

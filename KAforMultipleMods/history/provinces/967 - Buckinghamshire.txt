@@ -5,5 +5,5 @@ b_buckingham = castle
 b_wycombe = city
 b_aylesbury = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

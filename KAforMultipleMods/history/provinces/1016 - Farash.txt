@@ -4,5 +4,5 @@ max_settlements = 4
 b_farash = temple
 b_shabana = city
 
-culture = nubian
-religion = miaphysite
+culture = tribal
+religion = ancestry

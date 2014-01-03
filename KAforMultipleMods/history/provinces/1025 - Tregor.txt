@@ -5,5 +5,5 @@ b_guingamp = castle
 b_treguier = city
 b_plougonven = temple
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

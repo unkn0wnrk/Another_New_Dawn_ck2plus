@@ -1,0 +1,16 @@
+#1039 - Linguere
+
+# County Title
+title = c_linguere
+
+# Settlements
+max_settlements = 3
+b_linguere = castle
+
+
+# Misc
+culture = tribal
+religion = ancestry
+
+
+# History

@@ -5,5 +5,5 @@ b_tortona = castle
 b_sarezzano = city
 b_momperone = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

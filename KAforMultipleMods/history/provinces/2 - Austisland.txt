@@ -3,5 +3,5 @@ title = c_austisland
 max_settlements = 3
 b_glaumbaer = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

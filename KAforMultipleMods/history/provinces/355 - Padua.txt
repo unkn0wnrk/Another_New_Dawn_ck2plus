@@ -6,5 +6,5 @@ b_montagnana = temple
 b_padova = city
 b_polesine = castle
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -4,5 +4,5 @@ max_settlements = 3
 b_sliema = castle
 b_mdina = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

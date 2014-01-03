@@ -3,5 +3,5 @@ title = c_montbeliard
 max_settlements = 2
 b_montbeliard = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

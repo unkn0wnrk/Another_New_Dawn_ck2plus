@@ -6,5 +6,5 @@ b_braga = temple
 b_guimaraes = city
 b_vianadocastelo = castle
 
-culture = portuguese
-religion = catholic
+culture = tribal
+religion = ancestry

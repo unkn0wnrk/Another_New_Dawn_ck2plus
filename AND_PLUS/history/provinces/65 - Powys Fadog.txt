@@ -1,0 +1,20 @@
+# 915 - Powys Fadog
+
+# County Title
+title = c_powys_fadog
+
+# Settlements
+max_settlements = 4
+b_dinas_bran = castle
+#b_mathrafal = castle
+#b_caersws = city
+#b_ruthin = temple
+b_radnor = city
+b_llangollen = temple
+
+# Misc
+culture = tribal
+religion = ancestry
+terrain = hills
+
+# History

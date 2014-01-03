@@ -5,5 +5,5 @@ b_gibraltar = temple
 b_algericas = city
 b_ronda = castle
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

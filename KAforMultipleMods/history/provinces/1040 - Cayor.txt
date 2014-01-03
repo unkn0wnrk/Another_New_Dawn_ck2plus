@@ -4,5 +4,5 @@ max_settlements = 4
 b_mboul = castle
 b_yoff = city
 
-culture = jolof
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

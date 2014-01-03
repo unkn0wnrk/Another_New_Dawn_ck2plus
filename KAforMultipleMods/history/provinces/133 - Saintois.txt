@@ -5,5 +5,5 @@ b_vaudemont = temple
 b_brixey = city
 b_saintois = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

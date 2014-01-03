@@ -1,0 +1,25 @@
+# 538 - Abauj
+
+# County Title
+title = c_abauj
+
+# Settlements
+max_settlements = 4
+b_abauj = castle
+b_kassa = city
+b_satoraljaujhely = temple
+
+#b_szikszo = castle
+#b_turna = castle
+#b_szepsi = castle
+#b_sarospatak = castle
+#b_tokaj = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History
+950.1.1 = { religion = tengri_pagan }
+950.1.1 = { culture = hungarian }
+1066.1.1 = { religion = catholic }

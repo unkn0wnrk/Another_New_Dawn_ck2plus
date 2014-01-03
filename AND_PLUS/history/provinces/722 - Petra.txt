@@ -1,0 +1,25 @@
+# 722 - Petra
+
+# County Title
+title = c_petra
+
+# Settlements
+max_settlements = 5
+b_tophel = castle
+b_wadi_musa = city
+b_petra = temple
+
+#b_bozrah = temple
+#b_abdelliya = castle
+#b_hamza = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+#Jewish Community
+800.1.1 = { 
+	b_wadi_musa = ct_jewish_community_1
+}
+
+# History

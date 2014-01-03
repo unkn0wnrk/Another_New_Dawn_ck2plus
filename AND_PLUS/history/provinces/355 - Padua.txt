@@ -1,0 +1,29 @@
+# 355 - Padua
+
+# County Title
+title = c_padova
+
+# Settlements
+max_settlements = 4
+b_este = castle
+b_montagnana = temple
+b_padova = city
+b_polesine = castle
+#b_chioggia = castle
+#b_adria = castle
+#b_rovigo = castle
+#b_vigonza = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+#Jewish Community
+800.1.1 = { 
+	b_padova = ct_jewish_community_1
+}
+
+# History
+1102.1.1 = { trade_post = b_contarini }
+1180.1.1 = { capital = b_padova }
+1325.1.1 = { capital = b_polesine }

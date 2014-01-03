@@ -3,5 +3,5 @@ title = c_melut
 max_settlements = 2
 b_melut = castle
 
-culture = ethiopian
-religion = pagan
+culture = tribal
+religion = ancestry

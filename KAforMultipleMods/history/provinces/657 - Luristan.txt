@@ -7,5 +7,5 @@ b_borujerd = temple
 b_koohdasht = city
 b_aligoodarz = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

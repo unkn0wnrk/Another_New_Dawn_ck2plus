@@ -5,5 +5,5 @@ b_cosenza = castle
 b_umbriatico = temple
 b_rossano = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

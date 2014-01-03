@@ -5,5 +5,5 @@ b_urmiah = temple
 b_kapalak = city
 b_takhtesuleiman = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

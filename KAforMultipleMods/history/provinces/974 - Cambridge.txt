@@ -4,5 +4,5 @@ max_settlements = 3
 b_cambridge = castle
 b_peterborough = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

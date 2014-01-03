@@ -5,5 +5,5 @@ b_drohiczyn = temple
 b_kolno = city
 b_sejny = castle
 
-culture = lithuanian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

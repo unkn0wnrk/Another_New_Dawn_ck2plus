@@ -5,5 +5,5 @@ b_longuyon = temple
 b_verdun = castle
 b_etain = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

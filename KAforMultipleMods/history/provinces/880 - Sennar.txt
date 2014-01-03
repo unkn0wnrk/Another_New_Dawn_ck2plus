@@ -6,5 +6,5 @@ b_kosti = city
 b_sinjah = temple
 b_bakkah = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

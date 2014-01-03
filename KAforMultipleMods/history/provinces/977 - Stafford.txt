@@ -5,5 +5,5 @@ b_lichfield = castle
 b_stafford = city
 b_tamworth = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

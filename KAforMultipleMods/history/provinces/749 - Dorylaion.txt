@@ -4,5 +4,5 @@ max_settlements = 4
 b_dorylaion = castle
 b_pessinus = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

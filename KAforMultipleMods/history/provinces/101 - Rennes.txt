@@ -5,5 +5,5 @@ b_rennes = temple
 b_st_malo = city
 b_dol = castle
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

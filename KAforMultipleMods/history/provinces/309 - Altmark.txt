@@ -5,5 +5,5 @@ b_stendal = temple
 b_halberstedt = castle
 b_walbeck = city
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

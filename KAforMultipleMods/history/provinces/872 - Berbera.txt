@@ -6,5 +6,5 @@ b_maydh = city
 b_amud = castle
 b_gabiley = castle
 
-culture = somali
-religion = sunni
+culture = tribal
+religion = ancestry

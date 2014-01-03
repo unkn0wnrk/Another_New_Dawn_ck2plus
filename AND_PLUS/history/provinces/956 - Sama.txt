@@ -1,0 +1,19 @@
+# 1 - Vestisland
+
+# County Title
+title = c_sama
+
+# Settlements
+max_settlements = 2
+b_sama = castle
+
+
+# Misc
+culture = tribal
+religion = ancestry
+
+
+# History
+1084.1.1 = {
+    religion = sunni
+}

@@ -1,0 +1,16 @@
+# 939 - Suze
+# County Title
+title = c_suze
+
+# Settlements
+max_settlements = 4
+b_torino = castle
+b_suza = city
+b_bussoleno = temple
+#caprie = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History

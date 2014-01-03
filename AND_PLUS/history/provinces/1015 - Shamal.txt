@@ -1,0 +1,14 @@
+# 1015 - Qasar Ibrim
+title = c_shamal
+
+# Settlements
+max_settlements = 4
+b_shamal = castle
+b_simbel = temple
+b_ahmar = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History

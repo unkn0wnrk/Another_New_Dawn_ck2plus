@@ -3,5 +3,5 @@ title = c_jubiyah
 max_settlements = 2
 b_jubiyah = castle
 
-culture = nubian
-religion = miaphysite
+culture = tribal
+religion = ancestry

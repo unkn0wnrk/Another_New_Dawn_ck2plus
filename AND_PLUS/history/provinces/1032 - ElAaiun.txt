@@ -1,0 +1,20 @@
+#1032 - ElAaiun
+
+# County Title
+title = c_el_aaiun
+
+# Settlements
+max_settlements = 3
+b_el_aaiun = castle
+b_boukra = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+
+# History
+1066.1.1 = {
+	religion = sunni
+	culture = maghreb_arabic
+}

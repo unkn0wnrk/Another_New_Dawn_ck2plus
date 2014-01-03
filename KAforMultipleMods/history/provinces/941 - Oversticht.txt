@@ -5,5 +5,5 @@ b_deventer = castle
 b_kampen = city
 b_coevorden = temple
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

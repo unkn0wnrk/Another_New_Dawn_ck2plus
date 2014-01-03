@@ -5,5 +5,5 @@ b_karin = castle
 b_owshank = temple
 b_tercan = city
 
-culture = armenian
-religion = miaphysite
+culture = tribal
+religion = ancestry

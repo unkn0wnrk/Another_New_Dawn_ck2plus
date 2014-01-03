@@ -3,5 +3,5 @@ title = c_zurq
 max_settlements = 2
 b_zurq = castle
 
-culture = egyptian_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

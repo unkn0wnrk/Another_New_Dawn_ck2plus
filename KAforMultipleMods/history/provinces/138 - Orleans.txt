@@ -6,5 +6,5 @@ b_gien = city
 b_fleury = temple
 b_lepuiset = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

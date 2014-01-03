@@ -6,5 +6,5 @@ b_dezful = city
 b_helen = temple
 b_idhaj = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

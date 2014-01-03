@@ -6,5 +6,5 @@ b_gijon = city
 b_cangasdeonis = castle
 b_norena = castle
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

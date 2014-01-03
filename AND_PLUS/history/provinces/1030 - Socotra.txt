@@ -1,0 +1,15 @@
+# 1030 - Socotra
+
+# County Title
+title = c_socotra
+
+# Settlements
+max_settlements = 2
+b_socotra = castle
+b_hadibu = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History

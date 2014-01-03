@@ -5,5 +5,5 @@ b_aversa = castle
 b_napoli = city
 b_cumae = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_polotsk = temple
 b_pastavy = city
 b_braslaw = castle
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

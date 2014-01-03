@@ -1,0 +1,30 @@
+# 535 - Vladimir Volynsky
+
+# County Title
+title = c_vladimir_volynsky
+
+# Settlements
+max_settlements = 4
+b_vladimirvolynsky = castle
+b_kholm = city
+b_kovel = temple
+
+#b_ivanichy = castle
+#b_hrubieszow = castle
+#b_torchyn = castle
+#b_cherven = castle
+#b_luboml = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+#Jewish Community
+800.1.1 = { 
+	b_kholm = ct_jewish_community_1
+}
+
+# History
+945.1.2 = { culture = russian }
+989.1.1 = { religion = orthodox }
+1187.1.1 = { b_kovel = city }

@@ -5,5 +5,5 @@ b_southwell = castle
 b_nottingham = city
 b_newark = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_bojnurd = temple
 b_shervan = city
 b_mashhad = castle
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_abbeville = castle
 b_montreuil = city
 b_crecy = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

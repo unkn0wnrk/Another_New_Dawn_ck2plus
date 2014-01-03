@@ -5,5 +5,5 @@ b_namur = castle
 b_andenne = temple
 b_dinant = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

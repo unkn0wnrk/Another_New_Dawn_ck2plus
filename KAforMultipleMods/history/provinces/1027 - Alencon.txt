@@ -5,5 +5,5 @@ b_argentan = castle
 b_alencon = city
 b_sees = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_sfax = castle
 b_monastir = city
 b_msaken = castle
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

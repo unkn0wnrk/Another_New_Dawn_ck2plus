@@ -6,5 +6,5 @@ b_saumur = city
 b_fontevraud = temple
 b_cholet = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

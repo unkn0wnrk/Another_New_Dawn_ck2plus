@@ -1,0 +1,32 @@
+# 464 - Vas
+
+# County Title
+title = c_vas
+
+# Settlements
+max_settlements = 3
+
+b_szombathely = castle
+#b_sarvar = castle
+
+b_vasvar = city
+b_szentgotthard = temple
+
+#b_celldomolk = castle
+#b_kormend = castle
+#b_koszeg = city
+#b_nemetujvar = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History
+
+950.1.1 = {
+	culture = hungarian
+	religion = tengri_pagan
+}
+1066.1.1 = { religion = catholic }
+
+

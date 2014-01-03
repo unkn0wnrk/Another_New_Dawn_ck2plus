@@ -1,0 +1,30 @@
+# 214 - Toulouse
+
+# County Title
+title = c_toulouse
+
+# Settlements
+max_settlements = 6
+b_toulouse = castle
+b_lavaur = temple
+b_muret = city
+b_castelnaudary = castle
+
+#b_lombez = temple
+#b_hautpoul = castle
+#b_muret = city
+#b_montgiscard = castle
+
+#Misc
+religion = ancestry
+culture = tribal
+
+#Jewish Community
+800.1.1 = { 
+	b_muret = ct_jewish_community_1
+	b_muret = ct_jewish_community_2
+}
+
+# History
+1150.1.1 = { religion = cathar }
+1244.3.16 = { religion = catholic}

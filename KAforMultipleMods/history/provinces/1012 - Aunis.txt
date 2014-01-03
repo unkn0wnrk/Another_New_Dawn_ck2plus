@@ -4,5 +4,5 @@ max_settlements = 4
 b_chatelaillon = castle
 b_larochelle = castle
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

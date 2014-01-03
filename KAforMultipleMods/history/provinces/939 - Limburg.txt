@@ -5,5 +5,5 @@ b_limburg = castle
 b_valkenburg = temple
 b_maastricht = city
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

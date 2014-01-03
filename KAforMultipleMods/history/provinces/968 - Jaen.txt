@@ -4,5 +4,5 @@ max_settlements = 4
 b_huelma = castle
 b_jaen = temple
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

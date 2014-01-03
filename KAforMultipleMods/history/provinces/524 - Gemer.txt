@@ -5,5 +5,5 @@ b_gomor = temple
 b_dobsina = city
 b_losonc = castle
 
-culture = bohemian
-religion = catholic
+culture = tribal
+religion = ancestry

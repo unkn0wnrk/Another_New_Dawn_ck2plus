@@ -6,5 +6,5 @@ b_millau = city
 b_vabres = temple
 b_rodez = castle
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

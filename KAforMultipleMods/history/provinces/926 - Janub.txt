@@ -3,5 +3,5 @@ title = c_janub
 max_settlements = 2
 b_janub = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

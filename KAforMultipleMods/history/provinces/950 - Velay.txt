@@ -4,5 +4,5 @@ max_settlements = 3
 b_yssingeaux = castle
 b_lachaisedieu = temple
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

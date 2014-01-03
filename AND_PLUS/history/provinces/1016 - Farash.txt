@@ -1,0 +1,17 @@
+# 878 - Hayya
+
+# County Title
+title = c_farash
+
+# Settlements
+max_settlements = 4
+
+b_farash = castle
+b_shabana = city
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History
+

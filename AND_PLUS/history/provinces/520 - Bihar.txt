@@ -1,0 +1,30 @@
+# 520 - Bihar
+
+# County Title
+title = c_bihar
+
+# Settlements
+max_settlements = 4
+
+b_bihar = castle
+b_debrecen = city
+b_nagyvarad = temple
+
+#b_biharkeresztes = castle
+#b_nagybajom = castle
+#b_szalard = castle
+#b_zolonta = castle
+#b_elesd = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+#Jewish Community
+800.1.1 = { 
+	b_debrecen = ct_jewish_community_1
+}
+
+# History
+950.1.1 = { culture = hungarian }
+1066.1.1 = { religion = catholic }
+

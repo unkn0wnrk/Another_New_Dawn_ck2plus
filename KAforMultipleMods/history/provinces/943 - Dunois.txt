@@ -5,5 +5,5 @@ b_chateaudun = castle
 b_bonneval = temple
 b_cloyes = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

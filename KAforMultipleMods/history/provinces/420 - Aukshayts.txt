@@ -6,5 +6,5 @@ b_lida = temple
 b_kaunas = city
 b_vilnius = city
 
-culture = lithuanian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

@@ -3,5 +3,5 @@ title = c_linguere
 max_settlements = 3
 b_linguere = castle
 
-culture = jolof
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

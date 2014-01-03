@@ -5,5 +5,5 @@ b_nusaybin = castle
 b_savur = city
 b_dairodmorhannanyo = temple
 
-culture = kurdish
-religion = miaphysite
+culture = tribal
+religion = ancestry

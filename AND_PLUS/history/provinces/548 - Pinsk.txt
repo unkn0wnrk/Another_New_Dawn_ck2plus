@@ -1,0 +1,29 @@
+# 548 - Pinsk
+
+# County Title
+title = c_pinsk
+
+# Settlements
+max_settlements = 4
+b_pinsk = castle
+b_porkhovo = city
+b_lutsk = temple
+
+#b_biaroza = castle
+#b_stepan = castle
+#b_kosava = castle
+#b_luninets = castle
+#b_dabuchin = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+#Jewish Community
+800.1.1 = { 
+	b_porkhovo = ct_jewish_community_1
+}
+
+# History
+945.1.2 = { culture = russian }
+988.1.1 = { religion = orthodox }

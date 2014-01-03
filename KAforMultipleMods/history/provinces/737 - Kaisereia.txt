@@ -5,5 +5,5 @@ b_talas = castle
 b_misti = city
 b_kaisereia = temple
 
-culture = greek
-religion = iconoclast
+culture = tribal
+religion = ancestry

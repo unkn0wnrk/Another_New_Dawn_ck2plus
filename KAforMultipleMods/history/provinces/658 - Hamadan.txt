@@ -7,5 +7,5 @@ b_ganjnameh = temple
 b_asadabad = city
 b_ecbatana = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

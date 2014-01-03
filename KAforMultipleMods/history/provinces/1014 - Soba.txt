@@ -3,5 +3,5 @@ title = c_soba
 max_settlements = 4
 b_sobah = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

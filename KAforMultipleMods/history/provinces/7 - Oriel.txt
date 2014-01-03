@@ -4,5 +4,5 @@ max_settlements = 3
 b_drogheda = castle
 b_armagh = temple
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

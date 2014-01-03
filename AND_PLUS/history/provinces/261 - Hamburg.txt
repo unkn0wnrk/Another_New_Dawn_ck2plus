@@ -1,0 +1,25 @@
+# 261 - Hamburg
+
+# County Title
+title = c_hamburg
+
+# Settlements
+max_settlements = 6
+b_hamburg = city
+b_altona = temple
+b_dithmarschen = castle
+#b_buxtehude = city
+
+#b_brunsbuttel = castle
+#b_buxtehude = castle
+#b_dithmarschen = castle
+#b_niendorf = castle
+#b_lokstedt = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History
+1066.1.1 = { b_buxtehude = city trade_post = b_vorrade }
+1337.1.1 = { b_brunsbuttel = castle }

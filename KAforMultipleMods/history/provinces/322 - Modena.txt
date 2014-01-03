@@ -5,5 +5,5 @@ b_modena = temple
 b_carpi = city
 b_reggionellemila = castle
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

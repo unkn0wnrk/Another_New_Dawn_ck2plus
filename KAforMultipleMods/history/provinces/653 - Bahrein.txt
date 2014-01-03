@@ -4,5 +4,5 @@ max_settlements = 3
 b_umm_al_nasan = castle
 b_manama = city
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

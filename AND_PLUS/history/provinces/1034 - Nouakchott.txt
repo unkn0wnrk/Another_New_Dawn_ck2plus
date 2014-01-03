@@ -1,0 +1,19 @@
+#1034 - Nouakchott
+
+# County Title
+title = c_nouakchott
+
+# Settlements
+max_settlements = 2
+b_nouakchott = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+
+# History
+1066.1.1 = {
+	religion = sunni
+	culture = maghreb_arabic
+}

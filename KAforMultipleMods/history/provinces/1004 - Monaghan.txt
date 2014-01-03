@@ -5,5 +5,5 @@ b_monaghan = castle
 b_clones = temple
 b_castleblayney = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

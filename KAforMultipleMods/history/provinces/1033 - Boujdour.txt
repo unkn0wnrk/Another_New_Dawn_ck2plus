@@ -3,5 +3,5 @@ title = c_boujdour
 max_settlements = 2
 b_boujdour = castle
 
-culture = bafour
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

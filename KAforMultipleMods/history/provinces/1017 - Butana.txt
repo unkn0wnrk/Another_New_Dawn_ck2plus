@@ -3,5 +3,5 @@ title = c_butana
 max_settlements = 4
 b_butana = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

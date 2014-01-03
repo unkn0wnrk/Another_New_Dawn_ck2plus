@@ -6,5 +6,5 @@ b_atbarah = city
 b_bayuda = temple
 b_kasea = city
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

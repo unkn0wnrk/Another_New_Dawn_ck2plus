@@ -6,5 +6,5 @@ b_karukh = city
 b_kushk = temple
 b_gulran = castle
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

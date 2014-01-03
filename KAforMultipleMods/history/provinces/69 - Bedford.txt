@@ -5,5 +5,5 @@ b_bedford = castle
 b_luton = city
 b_berkhamsted = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

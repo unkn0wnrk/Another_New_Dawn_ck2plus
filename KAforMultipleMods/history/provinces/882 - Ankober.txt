@@ -5,5 +5,5 @@ b_ankober = castle
 b_doqaqit = city
 b_qundi = temple
 
-culture = ethiopian
-religion = pagan
+culture = tribal
+religion = ancestry

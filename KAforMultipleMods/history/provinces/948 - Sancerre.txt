@@ -5,5 +5,5 @@ b_sancerre = castle
 b_glen = city
 b_stsatur = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

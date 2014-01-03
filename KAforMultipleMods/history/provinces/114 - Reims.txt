@@ -6,5 +6,5 @@ b_provins = city
 b_chatillon = temple
 b_chalons = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_torino = castle
 b_suza = city
 b_bussoleno = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

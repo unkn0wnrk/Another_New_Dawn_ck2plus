@@ -4,5 +4,5 @@ max_settlements = 4
 b_frankopan = castle
 b_veglia = city
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

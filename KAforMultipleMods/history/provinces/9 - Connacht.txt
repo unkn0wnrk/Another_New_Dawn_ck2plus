@@ -4,5 +4,5 @@ max_settlements = 4
 b_roscommon = castle
 b_tuam = temple
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -1,0 +1,25 @@
+# 914 Alencon
+
+# County Title
+title = c_alencon
+
+# Settlements
+max_settlements = 4
+
+b_argentan = castle
+b_alencon = city
+b_sees = temple
+#b_stpaterne = temple
+#b_damigny = castle
+#b_cerise = city
+#b_lechevain = castle
+
+# Misc
+culture = tribal
+religion = ancestry
+
+# History
+
+911.1.1 = {
+	culture = norman
+}

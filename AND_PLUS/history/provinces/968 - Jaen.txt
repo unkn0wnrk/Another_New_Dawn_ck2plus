@@ -1,0 +1,15 @@
+# 949 - Jaen
+
+# County Title
+title = c_jaen
+
+# Settlements
+max_settlements = 4
+b_huelma = castle
+b_jaen = temple
+#b_baeza = castle
+
+culture = tribal
+religion = ancestry
+
+# History

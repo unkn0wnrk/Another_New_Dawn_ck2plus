@@ -5,5 +5,5 @@ b_angelokastron = castle
 b_arta = city
 b_preveza = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_plauen = castle
 b_leipzig = city
 b_merseburg = temple
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry
