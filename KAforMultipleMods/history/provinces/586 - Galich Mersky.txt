@@ -1,6 +1,6 @@
 title = c_galich_mersky
 
-max_settlements = 3
+max_settlements = 4
 b_galichmersky = castle
 b_gradmersky = city
 

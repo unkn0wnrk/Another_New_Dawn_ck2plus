@@ -1,6 +1,6 @@
 title = c_cephalonia
 
-max_settlements = 3
+max_settlements = 4
 b_palaiofrourio = castle
 b_ithaca = city
 

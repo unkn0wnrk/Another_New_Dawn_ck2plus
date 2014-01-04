@@ -1,6 +1,6 @@
 title = c_kirana
 
-max_settlements = 3
+max_settlements = 4
 b_kirana = castle
 b_bafoulable = city
 

@@ -1,6 +1,6 @@
 title = c_oversticht
 
-max_settlements = 3
+max_settlements = 4
 b_deventer = castle
 b_kampen = city
 b_coevorden = temple

@@ -1,6 +1,6 @@
 title = c_linguere
 
-max_settlements = 3
+max_settlements = 4
 b_linguere = castle
 
 culture = tribal

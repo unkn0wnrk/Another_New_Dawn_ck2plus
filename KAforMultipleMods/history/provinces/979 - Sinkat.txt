@@ -1,6 +1,6 @@
 title = c_sinkat
 
-max_settlements = 3
+max_settlements = 4
 b_sinkat = castle
 b_salum = city
 

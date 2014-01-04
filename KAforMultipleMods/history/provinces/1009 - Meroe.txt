@@ -1,6 +1,6 @@
 title = c_meroe
 
-max_settlements = 3
+max_settlements = 4
 b_meroe = castle
 
 culture = tribal

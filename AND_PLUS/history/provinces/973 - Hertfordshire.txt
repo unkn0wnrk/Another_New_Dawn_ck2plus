@@ -4,7 +4,7 @@
 title = c_hertfordshire
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_watford = castle
 b_hertford = city
 b_st_albans = temple

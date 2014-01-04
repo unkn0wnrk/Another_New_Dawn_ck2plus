@@ -1,6 +1,6 @@
 title = c_menorca
 
-max_settlements = 3
+max_settlements = 4
 b_ciutadella = castle
 b_mahon = city
 

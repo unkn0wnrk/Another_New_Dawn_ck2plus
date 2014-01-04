@@ -1,6 +1,6 @@
 title = c_guadalajara
 
-max_settlements = 3
+max_settlements = 4
 b_villanuevadelajara = castle
 b_guadalajara = city
 

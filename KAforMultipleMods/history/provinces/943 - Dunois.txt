@@ -1,6 +1,6 @@
 title = c_dunois
 
-max_settlements = 3
+max_settlements = 4
 b_chateaudun = castle
 b_bonneval = temple
 b_cloyes = city

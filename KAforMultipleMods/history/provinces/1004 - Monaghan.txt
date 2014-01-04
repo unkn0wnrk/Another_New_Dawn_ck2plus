@@ -1,6 +1,6 @@
 title = c_monaghan
 
-max_settlements = 3
+max_settlements = 4
 b_monaghan = castle
 b_clones = temple
 b_castleblayney = city

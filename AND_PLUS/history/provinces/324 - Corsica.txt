@@ -4,7 +4,7 @@
 title = c_corsica
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_ajaccio = castle
 b_bastia = city
 b_bonifacio = temple

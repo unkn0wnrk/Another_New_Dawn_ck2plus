@@ -3,7 +3,7 @@
 title = c_salima
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_salima = castle
 
 

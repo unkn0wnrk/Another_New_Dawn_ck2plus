@@ -1,6 +1,6 @@
 title = c_westderby
 
-max_settlements = 3
+max_settlements = 4
 b_westderby = castle
 b_farnworth = temple
 b_manchester = city

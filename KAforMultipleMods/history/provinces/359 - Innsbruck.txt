@@ -1,6 +1,6 @@
 title = c_innsbruck
 
-max_settlements = 3
+max_settlements = 4
 b_innsbruck = temple
 b_kufstein = city
 b_stams = castle

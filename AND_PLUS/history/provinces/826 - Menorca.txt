@@ -4,7 +4,7 @@
 title = c_menorca
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_ciutadella = castle 
 b_mahon = city
 #b_alaior = temple

@@ -1,6 +1,6 @@
 title = c_luristan
 
-max_settlements = 6
+max_settlements = 4
 b_dezbar = castle
 b_khorramabad = city
 b_borujerd = temple

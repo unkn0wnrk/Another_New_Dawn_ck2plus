@@ -1,6 +1,6 @@
 title = c_boleslav
 
-max_settlements = 3
+max_settlements = 4
 b_glatz = castle
 b_jicin = city
 b_hradiste = temple

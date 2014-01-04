@@ -1,6 +1,6 @@
 title = c_waalo
 
-max_settlements = 3
+max_settlements = 4
 b_ndiangue = castle
 b_louga = city
 

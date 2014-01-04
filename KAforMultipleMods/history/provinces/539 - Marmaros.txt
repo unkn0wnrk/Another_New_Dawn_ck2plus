@@ -1,6 +1,6 @@
 title = c_marmaros
 
-max_settlements = 3
+max_settlements = 4
 b_maramarossziget = castle
 b_nagykaroly = city
 b_nagybanya = temple

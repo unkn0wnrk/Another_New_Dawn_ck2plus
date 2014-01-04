@@ -1,6 +1,6 @@
 title = c_dorpat
 
-max_settlements = 3
+max_settlements = 4
 b_fellin = castle
 b_jarva = city
 b_tartu = temple

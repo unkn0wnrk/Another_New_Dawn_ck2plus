@@ -1,6 +1,6 @@
 title = c_pembroke
 
-max_settlements = 3
+max_settlements = 4
 b_pembroke = castle
 b_st_ishmaels = temple
 b_hwlffordd = city

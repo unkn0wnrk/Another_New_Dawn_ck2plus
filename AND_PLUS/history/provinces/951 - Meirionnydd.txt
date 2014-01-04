@@ -4,7 +4,7 @@
 title = c_meirionnydd
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_borth = castle
 b_llanidoes = temple
 b_aberystwyth = city

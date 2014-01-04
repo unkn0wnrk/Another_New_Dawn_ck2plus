@@ -1,6 +1,6 @@
 title = c_tarsos
 
-max_settlements = 5
+max_settlements = 4
 b_tarsos = castle
 b_lamas = city
 b_castabala = temple

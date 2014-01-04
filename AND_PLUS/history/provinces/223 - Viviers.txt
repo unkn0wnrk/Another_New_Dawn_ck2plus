@@ -4,7 +4,7 @@
 title = c_viviers
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_viviers = temple
 b_aubenas = castle
 b_largentiere = city

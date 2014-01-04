@@ -1,6 +1,6 @@
 title = c_namur
 
-max_settlements = 5
+max_settlements = 4
 b_namur = castle
 b_andenne = temple
 b_dinant = city

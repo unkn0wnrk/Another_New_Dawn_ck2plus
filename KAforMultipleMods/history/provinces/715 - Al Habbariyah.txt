@@ -1,6 +1,6 @@
 title = c_al_habbariyah
 
-max_settlements = 3
+max_settlements = 4
 b_alhabbariyah = castle
 b_nukhaib = temple
 b_shabakah = city

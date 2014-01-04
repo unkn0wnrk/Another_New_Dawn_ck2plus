@@ -1,6 +1,6 @@
 title = c_sennar
 
-max_settlements = 5
+max_settlements = 4
 b_sennar = castle
 b_kosti = city
 b_sinjah = temple

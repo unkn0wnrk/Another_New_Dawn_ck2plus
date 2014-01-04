@@ -1,6 +1,6 @@
 title = c_khorasan
 
-max_settlements = 5
+max_settlements = 4
 b_bojnurd = temple
 b_shervan = city
 b_mashhad = castle

@@ -1,6 +1,6 @@
 title = c_anti-atlas
 
-max_settlements = 3
+max_settlements = 4
 b_agadir = castle
 b_tata = city
 b_taroudaut = temple

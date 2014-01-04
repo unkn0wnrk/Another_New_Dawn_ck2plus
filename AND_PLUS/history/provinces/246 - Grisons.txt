@@ -4,7 +4,7 @@
 title = c_grisons
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_bellinzona = castle
 b_locarno = city
 b_disentis = temple

@@ -1,6 +1,6 @@
 title = c_chiny
 
-max_settlements = 3
+max_settlements = 4
 b_chiny = castle
 b_orval = temple
 

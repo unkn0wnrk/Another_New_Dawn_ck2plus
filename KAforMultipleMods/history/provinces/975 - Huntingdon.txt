@@ -1,6 +1,6 @@
 title = c_huntingdon
 
-max_settlements = 3
+max_settlements = 4
 b_huntingdon = castle
 b_ramsey = city
 b_stives = temple

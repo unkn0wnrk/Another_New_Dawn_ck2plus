@@ -4,7 +4,7 @@
 title = c_wiltshire
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_wilton = castle
 b_salisbury = temple
 

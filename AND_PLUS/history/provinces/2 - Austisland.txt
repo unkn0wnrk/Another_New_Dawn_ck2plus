@@ -4,7 +4,7 @@
 title = c_austisland
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_glaumbaer = castle
 #b_hrisey = city
 #b_glaumbaer = castle

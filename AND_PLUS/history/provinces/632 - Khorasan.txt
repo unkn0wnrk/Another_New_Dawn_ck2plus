@@ -4,7 +4,7 @@
 title = c_khorasan
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_bojnurd = castle
 b_shervan = city
 #b_isfarayen = city

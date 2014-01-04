@@ -1,6 +1,6 @@
 title = c_jacwiez
 
-max_settlements = 3
+max_settlements = 4
 b_jacwiez = castle
 b_grodno = city
 b_novogrudok = temple

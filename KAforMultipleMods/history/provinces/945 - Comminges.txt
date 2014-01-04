@@ -1,6 +1,6 @@
 title = c_comminges
 
-max_settlements = 3
+max_settlements = 4
 b_comminges = castle
 b_nebouzan = city
 

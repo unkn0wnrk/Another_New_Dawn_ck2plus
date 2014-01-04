@@ -1,6 +1,6 @@
 title = c_cherson
 
-max_settlements = 5
+max_settlements = 4
 b_kherson = castle
 b_neapol = city
 b_doros = temple

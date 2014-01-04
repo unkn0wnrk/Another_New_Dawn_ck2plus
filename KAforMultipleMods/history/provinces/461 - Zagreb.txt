@@ -1,6 +1,6 @@
 title = c_zagreb
 
-max_settlements = 5
+max_settlements = 4
 b_zagreb = castle
 b_karlovac = city
 b_sisak = temple

@@ -1,6 +1,6 @@
 title = c_tyrnovo
 
-max_settlements = 5
+max_settlements = 4
 b_tyrnovo = castle
 b_irinopolis = city
 b_kilifarevski = temple

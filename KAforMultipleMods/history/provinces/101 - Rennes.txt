@@ -1,6 +1,6 @@
 title = c_rennes
 
-max_settlements = 5
+max_settlements = 4
 b_rennes = temple
 b_st_malo = city
 b_dol = castle

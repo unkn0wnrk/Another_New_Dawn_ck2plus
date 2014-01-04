@@ -1,6 +1,6 @@
 title = c_aargau
 
-max_settlements = 3
+max_settlements = 4
 b_habsburg = castle
 b_schaffhausen = city
 b_basel = temple

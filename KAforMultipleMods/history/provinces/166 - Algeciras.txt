@@ -1,6 +1,6 @@
 title = c_algeciras
 
-max_settlements = 3
+max_settlements = 4
 b_gibraltar = temple
 b_algericas = city
 b_ronda = castle

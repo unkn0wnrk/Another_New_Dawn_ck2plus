@@ -3,7 +3,7 @@
 title = c_nahud
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_nahud = castle
 #b_zabad = city
 
