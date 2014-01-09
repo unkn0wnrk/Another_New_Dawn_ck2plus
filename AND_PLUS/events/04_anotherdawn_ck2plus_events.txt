@@ -30,7 +30,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = catholic_founded
@@ -58,7 +58,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = orthodox_founded
@@ -87,7 +87,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = jewish_founded
@@ -116,7 +116,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = sunni_founded
@@ -144,7 +144,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = shiite_founded
@@ -173,7 +173,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = norse_pagan_founded
@@ -201,7 +201,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = tengri_pagan_founded
@@ -229,7 +229,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = baltic_pagan_founded
@@ -257,7 +257,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = finnish_pagan_founded
@@ -285,7 +285,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 3000
+		days = 36500
 	}
 	immediate = {
 		set_global_flag = aztec_founded
@@ -313,7 +313,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = slavic_pagan_founded
@@ -341,7 +341,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = west_african_pagan_founded
@@ -369,7 +369,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = hellenic_pagan_founded
@@ -398,7 +398,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = zoroastrian_founded
@@ -427,7 +427,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = celtic_pagan_founded
@@ -455,7 +455,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = egyptian_pagan_founded
@@ -484,7 +484,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = atheism_founded
