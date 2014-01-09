@@ -1,0 +1,91 @@
+
+850.1.1=
+{
+
+	holder=74029
+	liege="d_khwarizmian"
+}
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100000778
+	liege = 0
+}
+867.1.7=
+{
+	holder=74029
+	liege="d_khwarizmian"
+}
+997.1.1={
+	holder=1000255903
+}
+1065.1.1=
+{
+	holder=93089
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100010778
+	liege = 0
+}
+1066.1.6=
+{
+	liege="d_khwarizmian"
+	holder=93089
+}
+1077.1.1=
+{
+	holder=20713
+	liege="k_persia"
+}
+1096.1.1=
+{
+	holder=93088
+}
+1097.1.1=
+{
+	holder = 144099
+}
+1127.1.1=
+{
+	holder = 144100
+}
+1141.1.1=
+{
+	liege ="k_khwarizm"
+}
+1156.1.1=
+{
+	holder = 144101
+}
+ 
+1172.3.1=
+{
+	holder=230000
+}
+1194.3.1=
+{
+	liege="k_persia" 
+}
+1200.1.1=
+{
+	holder=93052
+}
+1207.1.1=
+{
+	holder = 93053
+}
+1221.1.1=
+{
+	liege = 0
+}
+1230.1.1=
+{
+	holder=0
+}

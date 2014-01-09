@@ -1,0 +1,41 @@
+867.1.1 = {
+	liege = 0
+	holder = 100001539
+}
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100001214
+	liege = 0
+}
+867.1.6 = {
+	holder = 100001539
+	liege = 0
+}
+867.1.7 = {
+	holder = 0
+}
+996.10.13={
+	holder=1000255908
+  #liege="k_egypt"
+  liege="k_fatimid"
+}
+1006.10.13={
+  holder=0
+  liege=0
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100011214
+	liege = 0
+}
+1066.1.6={
+  holder=0
+  liege=0
+}

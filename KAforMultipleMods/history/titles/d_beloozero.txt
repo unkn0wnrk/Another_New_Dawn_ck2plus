@@ -1,0 +1,59 @@
+867.1.1=
+{
+holder = 6828
+}
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100000597
+	liege = 0
+}
+867.1.7=
+{
+holder = 6828
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100010597
+	liege = 0
+}
+1066.1.6=
+{
+holder = 6828
+}
+1238.3.4=
+{
+liege="e_golden_horde"
+law = succ_gavelkind
+law = agnatic_succession
+}
+1238.3.4=
+{
+holder=472824
+}
+1278.12.13=
+{
+holder=472822
+}
+1279.1.2=
+{
+holder=472813
+}
+1286.1.2=
+{
+holder=472822
+}
+1293.1.2=
+{
+holder=472826
+}
+1314.1.2=
+{
+holder=472820
+}

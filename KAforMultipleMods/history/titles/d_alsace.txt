@@ -1,0 +1,50 @@
+
+670.1.1=
+{
+	holder = 161471 #Eticho I Etichonen
+}
+682.1.1=
+{
+	holder = 161472 #Adalbert I Etichonen
+}
+722.12.11=
+{
+	holder = 161473 #Liutfred I Etichonen
+}
+739.1.1=
+{
+	holder = 0
+}
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100000044
+	liege = 0
+}
+867.1.7=
+{
+	holder = 0
+}
+875.1.1=
+{
+	holder = 90102 #Hugues Karling
+}
+895.1.2=
+{
+	holder = 0
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100010044
+	liege = 0
+}
+1066.1.6=
+{
+	holder = 0
+}

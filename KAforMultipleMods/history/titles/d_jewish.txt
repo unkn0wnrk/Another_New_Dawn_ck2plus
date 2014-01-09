@@ -1,0 +1,11 @@
+640.1.1={
+	holder=0
+	active = no
+}
+867.1.1 = {
+	holder=100001537
+}
+867.1.2 = {
+	active = no
+	liege=0
+}

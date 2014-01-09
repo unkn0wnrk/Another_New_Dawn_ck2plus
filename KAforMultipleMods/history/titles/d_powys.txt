@@ -1,0 +1,56 @@
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100001428
+	liege = 0
+}
+867.1.7 = {
+	holder = 0
+}
+1063.1.1=
+{
+	holder = 6358 #Bleddyn ap Cynfyn
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100011428
+	liege = 0
+}
+1066.1.6=
+{
+	holder = 6358 #Bleddyn ap Cynfyn
+}
+1075.1.1=
+{
+	holder=81857 #Iorwerth ap Bleddyn
+}
+1103.1.1=
+{
+	holder=6378 #Cadwgan ap Bleddyn
+}
+1111.1.1=
+{	
+	holder=138452 #Owain ap Cadwgan
+}
+1115.1.1=
+{
+	liege="k_england"
+}
+1116.1.1=
+{
+	holder=6360 #Maredudd ap Bleddyn
+}
+1132.2.9=
+{
+	holder=214718 #Madog ap Maredudd
+}
+1159.1.1=
+{
+	holder=0
+}

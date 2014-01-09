@@ -1,0 +1,55 @@
+867.1.1=
+{
+liege="k_bulgaria"
+}
+867.1.1=
+{
+holder=168072
+}
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100000906
+	liege = 0
+}
+867.1.7=
+{
+liege="k_bulgaria"
+holder=168072
+}
+880.1.1=
+{
+holder=0
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100010906
+	liege = 0
+}
+1066.1.6=
+{
+liege="k_bulgaria"
+holder=0
+}
+1299.1.1=
+{
+liege="k_hungary"
+}
+1299.1.1=
+{
+holder=93794
+}
+1301.1.1=
+{
+holder=93796
+}
+1325.1.1=
+{
+holder=469500
+}

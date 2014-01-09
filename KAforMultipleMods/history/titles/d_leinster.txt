@@ -1,0 +1,40 @@
+867.1.2 = {
+	holder = 0
+	liege = 0
+}
+
+867.1.5 = {
+	holder = 100001482
+	liege = 0
+}
+867.1.7 = {
+	holder = 0
+}
+1066.1.3 = {
+	holder=0
+}
+
+1066.1.5 = {
+	holder = 100011482
+	liege = 0
+}
+1066.1.6 = {
+	holder=0
+}
+1166.7.1={
+	holder = 214510 #Ruaidri Ua Conchobair
+	law = agnatic_succession
+	law = succ_tanistry
+}
+1170.7.1={
+	holder = 214550 #Diarmait of Leinster
+}
+1171.5.1={
+	holder = 214553 #wife of Richard de Clare
+}
+1172.1.1={
+	liege="k_englandnorman"
+}
+1185.1.1={
+	holder = 0
+}
