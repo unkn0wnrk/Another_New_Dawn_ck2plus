@@ -318,8 +318,11 @@ k_cyprus = {
         capital = 757 # Famagusta
         allow = {
                 OR = {
-                        religion = catholic
-                        is_heresy_of = catholic
+					religion = catholic
+					religion = cathar
+					religion = fraticelli
+					religion = waldensian
+					religion = lollard
                 }
         }
 }
@@ -455,8 +458,11 @@ k_trinacria = {
         
         allow = {
                 OR = {
-                        religion = catholic
-                        is_heresy_of = catholic
+					religion = catholic
+					religion = cathar
+					religion = fraticelli
+					religion = waldensian
+					religion = lollard
                 }
         }
 }
@@ -495,11 +501,9 @@ d_assassin = {
 d_balearic = {
         color={ 13 170 54 }
 }
-
 d_bergen = {
         color = { 47 27 255 }
 }
-
 d_butrinto = {
         color = { 148 68 154 }
 }
@@ -509,7 +513,6 @@ d_campania = {
 d_catalonia = {
         color = { 255 210 57 }
 }
-
 d_curonian = {
         color = { 141 55 29 }
         tribe = yes
@@ -544,7 +547,6 @@ d_danes = {
 d_don = {
         color = { 247 211 116 }
 }
-
 d_el-arish = {
         color = { 148 206 13 }
 }
@@ -570,7 +572,6 @@ d_estonia = {
 d_georgia = {
         color = { 251 184 184 }
 }
-
 d_geats = {
         color={ 35 57 180 }
 
@@ -586,7 +587,6 @@ d_geats = {
         
         culture = norse
 }
-
 d_ingers = {
         color={ 125 125 40 }
         tribe = yes
@@ -616,7 +616,6 @@ d_kajaneborg = {
 d_kappadokia = {
         color = { 255 3 170 }
 }
-
 d_khazars = {
         color = { 246 217 137 }
         
@@ -631,7 +630,6 @@ d_khazars = {
                 always = no
         }
 }
-
 d_sami = {
         color = { 101 99 35 }
         
@@ -650,14 +648,12 @@ d_sami = {
 d_krakow = {
         color = { 253 129 129 }
 }
-
 d_mar = {
         color = { 16 211 246 }
 }
 d_milano = {
         color = { 252 238 227 }
 }
-
 d_mordvins = {
         komi = "Moksha"
         color = { 173 158 55 }
@@ -723,7 +719,6 @@ d_pechenegs = {
                 always = no
         }
 }
-
 d_pruthenians = {
         color = { 159 195 75 }
         prussian = "Pameddi"
@@ -740,7 +735,6 @@ d_pruthenians = {
         title_prefix = "TRIBE_OF"
         
 }
-
 d_romagna = {
         color = { 243 234 157 }
 }
@@ -748,11 +742,9 @@ d_the_isles = {
         color={ 10 48 243 }
         color2={ 255 255 255 }
 }
-
 d_sandomiersk = {
         color = { 253 137 137 }
 }
-
 d_slovakia = {
         color = { 209 61 61 }
 }
@@ -868,7 +860,6 @@ d_yatviags = {
 d_zara = {
         color = { 203 217 255 }
 }
-
 d_zemigalians = {
         color = { 183 21 21 }
         culture = lettigallish

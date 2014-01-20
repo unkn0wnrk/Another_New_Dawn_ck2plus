@@ -45,7 +45,7 @@ NDiplomacy = {
 	MAX_ELECTOR_TITLES_LEGALLY_HELD = 1,		-- Max elector titles that a king or above can hold before vassals start getting angry
 	ASSASSINATION_COST_RANK_MULT = 50,			-- Additional cost for assassinations multiplied by rank (count = 1, emperor = 4). Also applies to children of rulers.
 	WOMEN_INHERIT_PRESSED_CLAIMS = 1,			-- If set to 1, they will get pressed claims on their parents' titles
-	BASTARDS_INHERIT_PRESSED_CLAIMS = 1,		-- If set to 1, they will get pressed claims on their parents' titles	
+	BASTARDS_INHERIT_PRESSED_CLAIMS = 1,		-- If set to 1, they will get pressed claims on their parents' titles
 	MUSLIM_LAW_CHANGE_PIETY_COST = 50,			-- Piety cost for Muslims when changing normal demesne laws
 	MUSLIM_CROWN_LAW_CHANGE_PIETY_COST = 100,	-- Piety cost for Muslims when changing Crown laws
 	INTER_MUSLIM_WAR_MONTHLY_PIETY_COST = 2,  	-- Monthly Piety cost for Muslims who are primary attackers against a ruler of the same religion (not civil wars)
@@ -349,7 +349,7 @@ NDiplomacy = {
 
 NCharacter = {
 	MAX_AGE_BEFORE_BETROTHAL_BREAKS = 20,
-NOMINATE_CROWN_BISHOP_PIETY_COST = 15, 					-- OBSOLETE
+	NOMINATE_CROWN_BISHOP_PIETY_COST = 15, 				-- OBSOLETE
 	NOMINATE_CROWN_BISHOP_REL_AUTHORITY_CHANGE = -0.01, -- OBSOLETE
 	WRONG_GOV_FORM_TAX_MOD = -0.5,
 	CHANGE_SUCC_LAW_YEARS = 10,						-- Rulers must have reigned this long before they can change succession laws
@@ -369,8 +369,8 @@ NOMINATE_CROWN_BISHOP_PIETY_COST = 15, 					-- OBSOLETE
 	INBRED_DIVINE_BLOOD_TRAIT_CHANCE_FACTOR = 0.2,	-- Inbreeding: Multiplier to the base chance
 	LUNATIC_DIVINE_BLOOD_TRAIT_CHANCE_FACTOR = 1.0,	-- Inbreeding: Multiplier to the base chance
 	MAX_LED_FACTIONS = 2,							-- Maximum number of led Factions
-	PORTRAIT_ADULT_MALE_AGE_THRESHOLD = 16,			-- Male child to adult age portrait switch
-	PORTRAIT_ADULT_FEMALE_AGE_THRESHOLD = 16,		-- Female child to adult age portrait switch
+	PORTRAIT_ADULT_MALE_AGE_THRESHOLD = 16,		-- Male child to adult age portrait switch
+	PORTRAIT_ADULT_FEMALE_AGE_THRESHOLD = 16,	-- Female child to adult age portrait switch
 	PORTRAIT_MID_AGE_THRESHOLD = 32,				-- Middle age switch for character portraits
 	PORTRAIT_OLD_AGE_THRESHOLD = 50,				-- Old age switch for character portraits
 	AGE_OF_ADULTHOOD_MALE = 16,						-- Male can rule at this age. 
@@ -433,9 +433,9 @@ NTitle = {
 	EMPEROR_TITLE_DYNASTY_PRESTIGE = 40,
 
 -- Piety from giving titles to the Church or Holy Orders
-	BARON_GRANT_TO_CHURCH_PIETY = 25,
-	COUNT_GRANT_TO_CHURCH_PIETY = 50,
-	DUKE_GRANT_TO_CHURCH_PIETY = 100,
+	BARON_GRANT_TO_CHURCH_PIETY = 0,
+	COUNT_GRANT_TO_CHURCH_PIETY = 10,
+	DUKE_GRANT_TO_CHURCH_PIETY = 20,
 	KING_GRANT_TO_CHURCH_PIETY = 100,
 	EMPEROR_GRANT_TO_CHURCH_PIETY = 100,
 	
@@ -445,7 +445,7 @@ NTitle = {
 	DUKE_CREATION_COST = 100,
 	KING_CREATION_COST = 250,
 	EMPEROR_CREATION_COST = 500,
-	
+
 -- Title Creation Prestige Gain
 	BARON_CREATION_PRESTIGE = 50, -- Granted when building a new settlement
 	COUNT_CREATION_PRESTIGE = 100, -- Unused, impossible
@@ -486,19 +486,19 @@ NTitle = {
 	NORMAL_LAW_CHANGE_MONTHS = 60,
 	TITLE_USURP_COOLDOWN_MONTHS = 60,
 	DE_JURE_ASSIMILATION_YEARS = 50,			-- Duchies a under the de facto control of another kingdom will change de jure liege after this many years
-	EMPIRE_DE_JURE_ASSIMILATION_YEARS = 100,		-- Kingdoms under the de facto control of another empire will change de jure liege after this many years
+	EMPIRE_DE_JURE_ASSIMILATION_YEARS = 100,	-- Kingdoms under the de facto control of another empire will change de jure liege after this many years
 	ALLOW_DE_JURE_ASSIMILATION_ANYWHERE = 1,	-- If set to 0, will only assimilate duchy titles which contain the assimilating Kingdom's capital or border existing de jure land of that title
 	REQ_DUCHIES_FOR_KINGDOM_CREATION = 3, 		-- Number of held duchies required to create a kingdom (for rulers who are not already kings or emperors)
 	REQ_KINGDOMS_FOR_EMPIRE_CREATION = 3, 		-- Number of held kingdoms required to create an Empire (for rulers who are not already emperors)
 	TITULAR_TITLE_CREATION_COST_MULT = 1,		-- Titular titles are more expensive to create
 	ENFORCE_ONE_OF_EACH_HOLDING = 1,			-- Require players to build at least one City, Temple and Castle in each province
 	MAX_REPUBLIC_COUNTIES_IN_REALM = 0.1,		-- 10% of a feudal realm is allowed to be under vassal republics (affects title grants)
-	MAX_THEOCRACY_COUNTIES_IN_REALM = 0.1,		-- 10% of a feudal realm is allowed to be under vassal theocracies/bishoprics (affects title grants)	
+	MAX_THEOCRACY_COUNTIES_IN_REALM = 0.1,		-- 10% of a feudal realm is allowed to be under vassal theocracies/bishoprics (affects title grants)
 	THEOCRACY_COUNTIES_CAN_BORDER = 1,			-- Can feudal lords create neighboring theocracy counties?
 	REPUBLIC_COUNTIES_CAN_BORDER = 1,				-- Can feudal lords create neighboring republic counties?
 	MIN_REVOKE_MONTHS_AFTER_GRANT = 12,			-- Months that must pass before you can revoke the title off someone you granted it to	
 
-	-- Title creation and usurpation requirements	
+-- Title creation and usurpation requirements	
 	DEJURE_COUNTY_LIMIT_TO_CREATE = 0.51,			-- Fraction of de jure counties that you must control to create a non-imperial title
 	DEJURE_COUNTY_LIMIT_TO_USURP = 0.51,			-- Fraction of de jure counties that you must control to usurp a non-imperial title
 	EMPIRE_DEJURE_COUNTY_LIMIT_TO_CREATE = 0.8,		-- Fraction of de jure counties that you must control to create an imperial title
@@ -858,30 +858,30 @@ NTechnology = {
 	START_MIL_CATHOLIC  = 0.5,
 	START_ECO_CATHOLIC  = 0.5,
 	START_CUL_CATHOLIC  = 0.5,
-	END_MIL_CATHOLIC    = 5.0,
-	END_ECO_CATHOLIC    = 5.0,
-	END_CUL_CATHOLIC    = 5.0,
-	END_REN_CLOSE       = 7.0, -- Tech level at the center of the renaissance
-	END_REN_FAR         = 6.0, -- Tech level on the fringe of the renaissance
+	END_MIL_CATHOLIC    = 45.0,
+	END_ECO_CATHOLIC    = 45.0,
+	END_CUL_CATHOLIC    = 45.0,
+	END_REN_CLOSE       = 65.0, -- Tech level at the center of the renaissance
+	END_REN_FAR         = 55.0, -- Tech level on the fringe of the renaissance
 	REN_PROVINCE        = 328, -- Province where the Renaissance is centered
 	START_MIL_MUSLIM    = 1.0,
 	START_ECO_MUSLIM    = 1.0,
 	START_CUL_MUSLIM    = 1.0,
-	END_MIL_MUSLIM      = 4.5,
-	END_ECO_MUSLIM      = 4.5,
-	END_CUL_MUSLIM      = 4.5,
+	END_MIL_MUSLIM      = 40,
+	END_ECO_MUSLIM      = 40,
+	END_CUL_MUSLIM      = 40,
 	START_MIL_OTHER     = 1.0,
 	START_ECO_OTHER     = 0.0,
 	START_CUL_OTHER     = 0.0,
-	END_MIL_OTHER       = 4.5,
-	END_ECO_OTHER       = 4.5,
-	END_CUL_OTHER       = 4.5,
+	END_MIL_OTHER       = 40,
+	END_ECO_OTHER       = 40,
+	END_CUL_OTHER       = 40,
 	START_MIL_BYZANTIUM = 0.0,
 	START_ECO_BYZANTIUM = 1.0,
 	START_CUL_BYZANTIUM = 1.0,
-	END_MIL_BYZANTIUM   = 4.5,
-	END_ECO_BYZANTIUM   = 4.5,
-	END_CUL_BYZANTIUM   = 4.5,
+	END_MIL_BYZANTIUM   = 40,
+	END_ECO_BYZANTIUM   = 40,
+	END_CUL_BYZANTIUM   = 40,
 },
 
 NDisease = {
@@ -936,7 +936,7 @@ NAI =
 	RAID_MAX_REALM_SIZE = 24,								-- Realms with more holdings than this will never go on Raids
 	RAID_AGGRESSION = 18,									-- General frequency of raids. A LOWER number means more often!
 	RAID_PREP_INV_SPARE_SAME_CULTURE = 1,					-- AI of religions that allow prepared invasions will not raid provinces in their own culture group (to prevent intra-Scandinavian raids)
-	RAID_SPARE_ACCEPTED_RELIGIONS = 1						-- AI will not raid rulers of other religions in the same religion group, unless heresy vs parent religion	
+	RAID_SPARE_ACCEPTED_RELIGIONS = 1						-- AI will not raid rulers of other religions in the same religion group, unless heresy vs parent religion
 },
 
 NFrontend = 
