@@ -3,8 +3,8 @@ Readme
 
 Another New Dawn: ck2plus version
 Requirements
-- Crusader Kings II patch 2.0.3
-- CK2+ 2.06.3
+- Crusader Kings II patch 2.0.4
+- CK2+ 2.07.0
 - (optional) Titular Title Generator 2.0.18
 
 

@@ -4932,6 +4932,37 @@ dejure_county_claim = {
 		ROOT = { NOT = { has_character_modifier = holding_epic_tournament }	}
 		ROOT = { NOT = { has_character_modifier = holy_truce_timer } }
 		FROM = { NOT = { has_character_modifier = holy_truce_timer } }
+		OR = {
+			FROM = {
+				AND = {
+					religion_group = ROOT 
+					NOT = {
+						is_heresy_of = ROOT
+						is_parent_religion = ROOT
+					}
+				}
+			}
+			FROM = {
+				same_realm = ROOT
+			}
+		}	
+		OR = {
+			AND = {
+				OR = {
+					religion_group = muslim
+					AND = {
+						religion_group = pagan_group
+						is_reformed_religion = yes
+					}
+				}
+				religion = FROM
+			}
+			NOT = {
+				religion_group = muslim
+				religion_group = pagan_group
+			}
+		}
+		
 		tier = count
 		OR = {
 			FROM = {
@@ -4941,70 +4972,7 @@ dejure_county_claim = {
 				is_liege_or_above = FROM
 			}
 		}
-
-		OR = {
-			FROM = { NOT = { same_realm = ROOT } }
-			ROOT = { is_feudal = no }
-			FROM = { is_feudal = yes }
-		}
-
-		OR = {
-			FROM = { religion_group = ROOT }
-			AND = {
-				FROM = { 
-					OR = {
-						religion = catholic
-						religion = cathar
-						religion = fraticelli
-						religion = waldensian
-						religion = lollard
-					}
-				}
-				ROOT = { 
-					OR = {
-						religion = orthodox
-						religion = bogomilist
-						religion = nestorian
-						religion = monothelite
-						religion = iconoclast
-					}
-				}
-			}
-			AND = {
-				ROOT = { 
-					OR = {
-						religion = catholic
-						religion = cathar
-						religion = fraticelli
-						religion = waldensian
-						religion = lollard
-					}
-
-				}
-				FROM = { 
-					OR = {
-						religion = orthodox
-						religion = bogomilist
-						religion = nestorian
-						religion = monothelite
-						religion = iconoclast
-					}
-				}
-			}
-			location = {
-				duchy = {
-					FROM = {
-						NOT = {
-							num_of_realm_counties = {
-								value = 2
-								title = PREV
-							}
-						}
-					}
-				}
-			}
-		}
-
+		
 		OR = {
 			kingdom = {
 				OR = {
@@ -5650,15 +5618,41 @@ other_dejure_county_claim = {
 				character = PREV
 			}
 		}
-
-		OR = {
-			FROM = { NOT = { same_realm = ROOT } }
-			ROOT = { is_feudal = no }
-			FROM = { is_feudal = yes }
-		}
 	}
 
 	can_use_title = {
+	
+		OR = {
+			FROM = {
+				AND = {
+					religion_group = ROOT 
+					NOT = {
+						is_heresy_of = ROOT
+						is_parent_religion = ROOT
+					}
+				}
+			}
+			FROM = {
+				same_realm = ROOT
+			}
+		}	
+		OR = {
+			AND = {
+				OR = {
+					religion_group = muslim
+					AND = {
+						religion_group = pagan_group
+						is_reformed_religion = yes
+					}
+				}
+				religion = FROM
+			}
+			NOT = {
+				religion_group = muslim
+				religion_group = pagan_group
+			}
+		}	
+	
 		tier = count
 		OR = {
 			kingdom = {
@@ -5682,64 +5676,9 @@ other_dejure_county_claim = {
 			}
 		}
 
-		OR = {
-			ROOT = {
-				any_liege = {
-					character = FROMFROM
-				}
-			}
-			FROM = { religion_group = ROOT }
-			AND = {
-				FROM = { 
-					OR = {
-						religion = catholic
-						religion = cathar
-						religion = fraticelli
-						religion = waldensian
-						religion = lollard
-					}
-				}
-				ROOT = { 
-					OR = {
-						religion = orthodox
-						religion = bogomilist
-						religion = nestorian
-						religion = monothelite
-						religion = iconoclast
-					}
-				}
-			}
-			AND = {
-				ROOT = { 
-					OR = {
-						religion = catholic
-						religion = cathar
-						religion = fraticelli
-						religion = waldensian
-						religion = lollard
-					}
-				}
-				FROM = { 
-					OR = {
-						religion = orthodox
-						religion = bogomilist
-						religion = nestorian
-						religion = monothelite
-						religion = iconoclast
-					}
-				}
-			}
-			location = {
-				duchy = {
-					FROM = {
-						NOT = {
-							num_of_realm_counties = {
-								value = 2
-								title = PREV
-							}
-						}
-					}
-				}
+		ROOT = {
+			any_liege = {
+				character = FROMFROM
 			}
 		}
 
@@ -6242,8 +6181,35 @@ imperial_reconquest = {
 			}
 			NOT = { same_realm = FROM }
 		}
-		FROM = {
-			NOT = { religion_group = muslim }
+		OR = {
+			FROM = {
+				AND = {
+					religion_group = ROOT 
+					NOT = {
+						is_heresy_of = ROOT
+						is_parent_religion = ROOT
+					}
+				}
+			}
+			FROM = {
+				same_realm = ROOT
+			}
+		}	
+		OR = {
+			AND = {
+				OR = {
+					religion_group = muslim
+					AND = {
+						religion_group = pagan_group
+						is_reformed_religion = yes
+					}
+				}
+				religion = FROM
+			}
+			NOT = {
+				religion_group = muslim
+				religion_group = pagan_group
+			}
 		}
 	}
 

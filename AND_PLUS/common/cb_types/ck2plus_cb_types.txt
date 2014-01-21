@@ -79,6 +79,38 @@ dejure_duchy_claim = {
 		ROOT = { NOT = { has_character_modifier = holding_epic_tournament }	}
 		ROOT = { NOT = { has_character_modifier = holy_truce_timer } }
 		FROM = { NOT = { has_character_modifier = holy_truce_timer } }
+		
+		OR = {
+			FROM = {
+				AND = {
+					religion_group = ROOT 
+					NOT = {
+						is_heresy_of = ROOT
+						is_parent_religion = ROOT
+					}
+				}
+			}
+			FROM = {
+				same_realm = ROOT
+			}
+		}	
+		OR = {
+			AND = {
+				OR = {
+					religion_group = muslim
+					AND = {
+						religion_group = pagan_group
+						is_reformed_religion = yes
+					}
+				}
+				religion = FROM
+			}
+			NOT = {
+				religion_group = muslim
+				religion_group = pagan_group
+			}
+		}		
+		
 		is_titular = no
 		tier = duke
 		OR = {
@@ -88,9 +120,6 @@ dejure_duchy_claim = {
 			holder_scope = {
 				is_liege_or_above = FROM
 			}
-		}
-		FROM = {
-			religion_group = ROOT
 		}
 
 		OR = {
@@ -345,7 +374,7 @@ dejure_duchy_claim = {
 	}
 }
 
-vassalize = {
+vassalize = { # Subjugate
 	name = CB_NAME_VASSALIZE
 	war_name = WAR_NAME_VASSALIZE
 	sprite = 16
@@ -358,6 +387,37 @@ vassalize = {
 		ROOT = { NOT = { has_character_modifier = holding_epic_tournament }	}
 		ROOT = { NOT = { has_character_modifier = holy_truce_timer } }
 		FROM = { NOT = { has_character_modifier = holy_truce_timer } }
+		
+		OR = {
+			FROM = {
+				AND = {
+					religion_group = ROOT 
+					NOT = {
+						is_heresy_of = ROOT
+						is_parent_religion = ROOT
+					}
+				}
+			}
+			FROM = {
+				same_realm = ROOT
+			}
+		}	
+		OR = {
+			AND = {
+				OR = {
+					religion_group = muslim
+					AND = {
+						religion_group = pagan_group
+						is_reformed_religion = yes
+					}
+				}
+				religion = FROM
+			}
+			NOT = {
+				religion_group = muslim
+				religion_group = pagan_group
+			}
+		}	
 		FROM = { NOT = { tier = baron } }
 		FROM = {
 			OR = {
@@ -1025,7 +1085,7 @@ free_family_cb = {
 		ROOT = { NOT = { has_character_modifier = holding_epic_tournament }	}
 		ROOT = { NOT = { has_character_modifier = holy_truce_timer } }
 		FROM = { NOT = { has_character_modifier = holy_truce_timer } }
-
+	
 		any_dynasty_member = {
 			is_prisoner = yes
 		}
